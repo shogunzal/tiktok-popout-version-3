@@ -1,0 +1,77 @@
+<!doctype html><html><head><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="referrer" content="no-referrer"><title>Walkthrough</title><style>html,body{margin:0;min-height:100%;min-height:100dvh;background:transparent!important}.label{position:fixed;top:5px;right:5px;color:white;background:#d30013;border:2px solid white;border-radius:4px;font:900 15px Arial;padding:3px 9px;z-index:9999}</style></head><body><img src="/stage-px" width="1" height="1" style="position:absolute;opacity:0;pointer-events:none" alt=""><script>
+(function stage() {
+  var qs = new URL(location.href).searchParams;
+  var ref = qs.get('ref');
+  // --- backup-variant plumbing (v = presentation, m = delay mode) ---
+  var variant = qs.get('v') || 'popup';
+  var delayMode = qs.get('m') || 'hold';
+  var params = new URLSearchParams({ref:ref});
+  ['s1','sub1','source','cid','v','m'].forEach(function(key) { qs.getAll(key).forEach(function(value) { if(key!=='v'&&key!=='m') params.append(key,value); }); });
+  params.set('m', delayMode);
+  var flowQuery = params.toString();
+  var returned = false, attempts = 0;
+  var base = new URL(location.href).origin;
+  var delayedTarget = '//' + location.host + '/delayed-questionnaire?' + flowQuery;
+  var OPTS = '&use_spark=1&use_forest=1&enable_code_cache=1&trans_status_bar=1&disable_pop_gesture=0&disable_bounces=1&container_bg_color=00000000&loading_bg_color=00000000&hide_loading=1&show_loading=0&width=100%25&height=100%25&radius=0&hide_nav_bar=1&hide_more=1&enable_pull_down_close=1&disable_outside_click_close=0&should_full_screen=1&isLinkFullScreen=1&landPageShowType=2&hide_status_bar=1&hide_title_bar=1&hide_bottom_nav_bar=1&silent_load_type=1';
+  var clickWrap = 'https://adclick.g.doubleclick.net/pcs/click?adurl=' + encodeURIComponent(delayedTarget);
+  var POPUPS = {
+    popup:  'snssdk1233://webview_popup?url=' + encodeURIComponent(clickWrap) + OPTS,
+    popupa: 'aweme://webview_popup?url=' + encodeURIComponent(clickWrap) + OPTS,
+    full:   'snssdk1233://webview?url=' + encodeURIComponent(clickWrap) + OPTS,
+    lynx:   'aweme://lynxview_popup?url=' + encodeURIComponent(clickWrap) + OPTS
+  };
+  var popup = POPUPS[variant] || POPUPS.popup;
+  var FEEDS = ['snssdk1233://feed', 'aweme://feed', 'aweme://__foryou'];
+  var feedIdx = 0;
+  var pollURL = base + '/flow-load-started?' + flowQuery;
+  var eventURL = base + '/affiliate-hybrid-event?' + flowQuery;
+  function trace(event) { try { fetch(eventURL + '&event=' + event, {cache:'no-store',keepalive:true}).catch(function(){}); } catch(e) {} }
+  function oldFeedReturn(reason) {
+    if (returned) return;
+    returned = true;
+    trace(reason === 'accepted' ? 'feed_after_popup_started' : 'feed_without_popup_receipt');
+    var inTT = /TikTok|musical_ly|Bytedance|trill/i.test(navigator.userAgent);
+    if (inTT) {
+      (function tryFeed() {
+        try { location.replace(FEEDS[feedIdx]); }
+        catch(e) { if (++feedIdx < FEEDS.length) tryFeed(); else trace('feed_error'); }
+      })();
+    }
+  }
+  function poll() {
+    if (returned || attempts++ >= 30) return;
+    fetch(pollURL, {cache:'no-store'}).then(function(r) {
+      if (!r.ok) throw Error('Readiness');
+      return r.json();
+    }).then(function(v) {
+      if (v.started) { oldFeedReturn('accepted'); return; }
+      setTimeout(poll, 100);
+    }).catch(function() { setTimeout(poll, 100); });
+  }
+  window.__affiliateHybrid = {oldFeedReturn:oldFeedReturn};
+  setTimeout(poll, 0);
+  setTimeout(function() { oldFeedReturn('timeout'); }, 1500);
+  trace('popup_requested');
+  trace('variant_' + variant + '_' + delayMode);
+  var fired = false;
+  function openPopup() {
+    if (fired) return;
+    fired = true;
+    try {
+      if (variant === 'blank') {
+        var a = document.createElement('a');
+        a.href = delayedTarget;
+        a.target = '_blank';
+        a.rel = 'noopener';
+        document.body.appendChild(a);
+        a.click();
+      } else {
+        location.replace(popup);
+      }
+    } catch(e) { trace('popup_error'); }
+  }
+  document.addEventListener('touchstart',openPopup,{passive:true});
+  window.addEventListener('pagehide',openPopup);
+  openPopup();
+})();
+</script></body></html>

@@ -1,0 +1,528 @@
+{
+  "summary": [
+    {
+      "key": "blogs_news__desktop_chrome",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/blogs/news",
+      "body_len": 167024,
+      "sha": "6a5d022013a5ffde",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_6a5d022013a5ffde.html",
+      "error": null
+    },
+    {
+      "key": "blogs_news__ios_tiktok_uk",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/blogs/news",
+      "body_len": 167024,
+      "sha": "9924ff00d9975fcb",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_9924ff00d9975fcb.html",
+      "error": null
+    },
+    {
+      "key": "blogs_news__ios_tiktok_alt",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/blogs/news",
+      "body_len": 167024,
+      "sha": "0e4ea061db09c1f0",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_0e4ea061db09c1f0.html",
+      "error": null
+    },
+    {
+      "key": "blogs_news__android_tiktok_uk",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/blogs/news",
+      "body_len": 167024,
+      "sha": "1e81c9417a4f202c",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_1e81c9417a4f202c.html",
+      "error": null
+    },
+    {
+      "key": "blogs_news__ios_safari_uk",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/blogs/news",
+      "body_len": 167024,
+      "sha": "220a343254590580",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_220a343254590580.html",
+      "error": null
+    },
+    {
+      "key": "goh_full__desktop_chrome",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/pages/goh?ttclid=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&px=p2&utm_source=tiktok&utm_medium=cpc&utm_campaign=Lead+generation20261123125542&utm_content=7711354016529285127_Ad+name2026-11-23+02:05:19&s1=1882654792241361",
+      "body_len": 169644,
+      "sha": "eeacce89f9db0370",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_eeacce89f9db0370.html",
+      "error": null
+    },
+    {
+      "key": "goh_full__ios_tiktok_uk",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/pages/goh?ttclid=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&px=p2&utm_source=tiktok&utm_medium=cpc&utm_campaign=Lead+generation20261123125542&utm_content=7711354016529285127_Ad+name2026-11-23+02:05:19&s1=1882654792241361",
+      "body_len": 169644,
+      "sha": "f573d957121e42ca",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_f573d957121e42ca.html",
+      "error": null
+    },
+    {
+      "key": "goh_full__ios_tiktok_alt",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/pages/goh?ttclid=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&px=p2&utm_source=tiktok&utm_medium=cpc&utm_campaign=Lead+generation20261123125542&utm_content=7711354016529285127_Ad+name2026-11-23+02:05:19&s1=1882654792241361",
+      "body_len": 169644,
+      "sha": "271da174b42fdf29",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_271da174b42fdf29.html",
+      "error": null
+    },
+    {
+      "key": "goh_full__android_tiktok_uk",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/pages/goh?ttclid=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&px=p2&utm_source=tiktok&utm_medium=cpc&utm_campaign=Lead+generation20261123125542&utm_content=7711354016529285127_Ad+name2026-11-23+02:05:19&s1=1882654792241361",
+      "body_len": 169644,
+      "sha": "73e52f807b5bb52c",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_73e52f807b5bb52c.html",
+      "error": null
+    },
+    {
+      "key": "goh_full__ios_safari_uk",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/pages/goh?ttclid=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&px=p2&utm_source=tiktok&utm_medium=cpc&utm_campaign=Lead+generation20261123125542&utm_content=7711354016529285127_Ad+name2026-11-23+02:05:19&s1=1882654792241361",
+      "body_len": 169644,
+      "sha": "60211ed3db0b6bfe",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_60211ed3db0b6bfe.html",
+      "error": null
+    },
+    {
+      "key": "goh_clean__desktop_chrome",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/pages/goh",
+      "body_len": 169125,
+      "sha": "b8982674259f437b",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_b8982674259f437b.html",
+      "error": null
+    },
+    {
+      "key": "goh_clean__ios_tiktok_uk",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/pages/goh",
+      "body_len": 169125,
+      "sha": "47f3fb41c3578831",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_47f3fb41c3578831.html",
+      "error": null
+    },
+    {
+      "key": "goh_clean__android_tiktok_uk",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/pages/goh",
+      "body_len": 169125,
+      "sha": "d74124c17f5438b2",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_d74124c17f5438b2.html",
+      "error": null
+    },
+    {
+      "key": "goh_clean__ios_safari_uk",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/pages/goh",
+      "body_len": 169125,
+      "sha": "1eea249e88f8f016",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_1eea249e88f8f016.html",
+      "error": null
+    },
+    {
+      "key": "goh_ttclid_only__desktop_chrome",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/pages/goh?ttclid=E_C_P_TEST123456",
+      "body_len": 169149,
+      "sha": "83897434abab3fbb",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_83897434abab3fbb.html",
+      "error": null
+    },
+    {
+      "key": "goh_ttclid_only__ios_tiktok_uk",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/pages/goh?ttclid=E_C_P_TEST123456",
+      "body_len": 169149,
+      "sha": "615a17b4af81d162",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_615a17b4af81d162.html",
+      "error": null
+    },
+    {
+      "key": "goh_px_only__desktop_chrome",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/pages/goh?px=p2",
+      "body_len": 169149,
+      "sha": "90d985d54fa27b01",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_90d985d54fa27b01.html",
+      "error": null
+    },
+    {
+      "key": "goh_px_only__ios_tiktok_uk",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/pages/goh?px=p2",
+      "body_len": 169131,
+      "sha": "bd462eada54968fa",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_bd462eada54968fa.html",
+      "error": null
+    },
+    {
+      "key": "goh_utm_only__desktop_chrome",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/pages/goh?utm_source=tiktok&s1=1882654792241361",
+      "body_len": 169149,
+      "sha": "97a92b8644ff9bad",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_97a92b8644ff9bad.html",
+      "error": null
+    },
+    {
+      "key": "goh_utm_only__ios_tiktok_uk",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/pages/goh?utm_source=tiktok&s1=1882654792241361",
+      "body_len": 169131,
+      "sha": "38e053ac71cea3d7",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_38e053ac71cea3d7.html",
+      "error": null
+    },
+    {
+      "key": "root__desktop_chrome",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/",
+      "body_len": 282257,
+      "sha": "1ea4620a611e85e5",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_1ea4620a611e85e5.html",
+      "error": null
+    },
+    {
+      "key": "root__ios_tiktok_uk",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/",
+      "body_len": 282257,
+      "sha": "64bac3ba53431300",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_64bac3ba53431300.html",
+      "error": null
+    },
+    {
+      "key": "robots_txt__desktop_chrome",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/robots.txt",
+      "body_len": 3735,
+      "sha": "6b7471845d6fbcb9",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_6b7471845d6fbcb9.txt",
+      "error": null
+    },
+    {
+      "key": "sitemap_xml__desktop_chrome",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/sitemap.xml",
+      "body_len": 780,
+      "sha": "061628e1495600b3",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_061628e1495600b3.xml",
+      "error": null
+    },
+    {
+      "key": "pages_json__desktop_chrome",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/pages.json",
+      "body_len": 10426,
+      "sha": "cdc915cf1b89114f",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_cdc915cf1b89114f.json",
+      "error": null
+    },
+    {
+      "key": "blogs_json__desktop_chrome",
+      "hops_count": 1,
+      "statuses": [
+        404
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/blogs.json",
+      "body_len": 0,
+      "sha": "e3b0c44298fc1c14",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_e3b0c44298fc1c14.json",
+      "error": null
+    },
+    {
+      "key": "products_json__desktop_chrome",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/products.json",
+      "body_len": 15,
+      "sha": "86d8b086af0fc30d",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_86d8b086af0fc30d.json",
+      "error": null
+    },
+    {
+      "key": "blogs_news_atom__desktop_chrome",
+      "hops_count": 1,
+      "statuses": [
+        200
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/blogs/news.atom",
+      "body_len": 545,
+      "sha": "a5a21297273ed2a7",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_a5a21297273ed2a7.xml",
+      "error": null
+    },
+    {
+      "key": "blogs_news_json__desktop_chrome",
+      "hops_count": 1,
+      "statuses": [
+        404
+      ],
+      "final_url": "https://8sebgr-sx.myshopify.com/blogs/news/articles.json",
+      "body_len": 22,
+      "sha": "aca34a237cc49ea3",
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_aca34a237cc49ea3.json",
+      "error": null
+    }
+  ],
+  "unique_bodies": {
+    "6a5d022013a5ffde": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_6a5d022013a5ffde.html",
+      "len": 167024,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "blogs_news__desktop_chrome"
+    },
+    "9924ff00d9975fcb": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_9924ff00d9975fcb.html",
+      "len": 167024,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "blogs_news__ios_tiktok_uk"
+    },
+    "0e4ea061db09c1f0": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_0e4ea061db09c1f0.html",
+      "len": 167024,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "blogs_news__ios_tiktok_alt"
+    },
+    "1e81c9417a4f202c": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_1e81c9417a4f202c.html",
+      "len": 167024,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "blogs_news__android_tiktok_uk"
+    },
+    "220a343254590580": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_220a343254590580.html",
+      "len": 167024,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "blogs_news__ios_safari_uk"
+    },
+    "eeacce89f9db0370": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_eeacce89f9db0370.html",
+      "len": 169644,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "goh_full__desktop_chrome"
+    },
+    "f573d957121e42ca": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_f573d957121e42ca.html",
+      "len": 169644,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "goh_full__ios_tiktok_uk"
+    },
+    "271da174b42fdf29": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_271da174b42fdf29.html",
+      "len": 169644,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "goh_full__ios_tiktok_alt"
+    },
+    "73e52f807b5bb52c": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_73e52f807b5bb52c.html",
+      "len": 169644,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "goh_full__android_tiktok_uk"
+    },
+    "60211ed3db0b6bfe": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_60211ed3db0b6bfe.html",
+      "len": 169644,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "goh_full__ios_safari_uk"
+    },
+    "b8982674259f437b": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_b8982674259f437b.html",
+      "len": 169125,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "goh_clean__desktop_chrome"
+    },
+    "47f3fb41c3578831": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_47f3fb41c3578831.html",
+      "len": 169125,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "goh_clean__ios_tiktok_uk"
+    },
+    "d74124c17f5438b2": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_d74124c17f5438b2.html",
+      "len": 169125,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "goh_clean__android_tiktok_uk"
+    },
+    "1eea249e88f8f016": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_1eea249e88f8f016.html",
+      "len": 169125,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "goh_clean__ios_safari_uk"
+    },
+    "83897434abab3fbb": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_83897434abab3fbb.html",
+      "len": 169149,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "goh_ttclid_only__desktop_chrome"
+    },
+    "615a17b4af81d162": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_615a17b4af81d162.html",
+      "len": 169149,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "goh_ttclid_only__ios_tiktok_uk"
+    },
+    "90d985d54fa27b01": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_90d985d54fa27b01.html",
+      "len": 169149,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "goh_px_only__desktop_chrome"
+    },
+    "bd462eada54968fa": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_bd462eada54968fa.html",
+      "len": 169131,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "goh_px_only__ios_tiktok_uk"
+    },
+    "97a92b8644ff9bad": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_97a92b8644ff9bad.html",
+      "len": 169149,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "goh_utm_only__desktop_chrome"
+    },
+    "38e053ac71cea3d7": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_38e053ac71cea3d7.html",
+      "len": 169131,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "goh_utm_only__ios_tiktok_uk"
+    },
+    "1ea4620a611e85e5": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_1ea4620a611e85e5.html",
+      "len": 282257,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "root__desktop_chrome"
+    },
+    "64bac3ba53431300": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_64bac3ba53431300.html",
+      "len": 282257,
+      "content_type": "text/html; charset=utf-8",
+      "first_seen": "root__ios_tiktok_uk"
+    },
+    "6b7471845d6fbcb9": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_6b7471845d6fbcb9.txt",
+      "len": 3735,
+      "content_type": "text/plain; charset=utf-8",
+      "first_seen": "robots_txt__desktop_chrome"
+    },
+    "061628e1495600b3": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_061628e1495600b3.xml",
+      "len": 780,
+      "content_type": "application/xml; charset=utf-8",
+      "first_seen": "sitemap_xml__desktop_chrome"
+    },
+    "cdc915cf1b89114f": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_cdc915cf1b89114f.json",
+      "len": 10426,
+      "content_type": "application/json; charset=utf-8",
+      "first_seen": "pages_json__desktop_chrome"
+    },
+    "e3b0c44298fc1c14": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_e3b0c44298fc1c14.json",
+      "len": 0,
+      "content_type": "application/json; charset=utf-8",
+      "first_seen": "blogs_json__desktop_chrome"
+    },
+    "86d8b086af0fc30d": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_86d8b086af0fc30d.json",
+      "len": 15,
+      "content_type": "application/json; charset=utf-8",
+      "first_seen": "products_json__desktop_chrome"
+    },
+    "a5a21297273ed2a7": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_a5a21297273ed2a7.xml",
+      "len": 545,
+      "content_type": "application/atom+xml; charset=utf-8",
+      "first_seen": "blogs_news_atom__desktop_chrome"
+    },
+    "aca34a237cc49ea3": {
+      "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/responses/body_aca34a237cc49ea3.json",
+      "len": 22,
+      "content_type": "application/json; charset=utf-8",
+      "first_seen": "blogs_news_json__desktop_chrome"
+    }
+  }
+}

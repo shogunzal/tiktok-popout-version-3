@@ -1,0 +1,138 @@
+[
+  {
+    "name": "aww_entry_goh_full__ios_tiktok_uk",
+    "status": 200,
+    "len": 5149,
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/aww_entry_goh_full__ios_tiktok_uk.json",
+    "extra": "keys=['authorized', 'entryHTML', 'nativeURL', 'stageURL', 'questionnaireURL', 'flowID', 'preserveNativeContext', 'productionFlow'] auth=True fb=None preserve=True entryHTML_len=1983 -> aww_entry_goh_full__ios_tiktok_uk.entryHTML.html"
+  },
+  {
+    "name": "aww_entry_goh_full__android_tiktok_uk",
+    "status": 200,
+    "len": 5149,
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/aww_entry_goh_full__android_tiktok_uk.json",
+    "extra": "keys=['authorized', 'entryHTML', 'nativeURL', 'stageURL', 'questionnaireURL', 'flowID', 'preserveNativeContext', 'productionFlow'] auth=True fb=None preserve=True entryHTML_len=1983 -> aww_entry_goh_full__android_tiktok_uk.entryHTML.html"
+  },
+  {
+    "name": "aww_entry_goh_full__desktop_chrome",
+    "status": 200,
+    "len": 76,
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/aww_entry_goh_full__desktop_chrome.json",
+    "extra": "keys=['authorized', 'fallback'] auth=False fb=https://8sebgr-sx.myshopify.com/blogs/news preserve=None"
+  },
+  {
+    "name": "aww_entry_goh_full__ios_safari_uk",
+    "status": 200,
+    "len": 76,
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/aww_entry_goh_full__ios_safari_uk.json",
+    "extra": "keys=['authorized', 'fallback'] auth=False fb=https://8sebgr-sx.myshopify.com/blogs/news preserve=None"
+  },
+  {
+    "name": "aww_entry_goh_kdemo__ios_tiktok_uk",
+    "status": 200,
+    "len": 5149,
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/aww_entry_goh_kdemo__ios_tiktok_uk.json",
+    "extra": "keys=['authorized', 'entryHTML', 'nativeURL', 'stageURL', 'questionnaireURL', 'flowID', 'preserveNativeContext', 'productionFlow'] auth=True fb=None preserve=True entryHTML_len=1983 -> aww_entry_goh_kdemo__ios_tiktok_uk.entryHTML.html"
+  },
+  {
+    "name": "aww_entry_goh_clean__ios_tiktok_uk",
+    "status": 200,
+    "len": 2357,
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/aww_entry_goh_clean__ios_tiktok_uk.json",
+    "extra": "keys=['authorized', 'entryHTML', 'nativeURL', 'stageURL', 'questionnaireURL', 'flowID', 'preserveNativeContext', 'productionFlow'] auth=True fb=None preserve=True entryHTML_len=1256 -> aww_entry_goh_clean__ios_tiktok_uk.entryHTML.html"
+  },
+  {
+    "name": "aww_get_root__ios_tiktok_uk",
+    "status": 302,
+    "len": 0,
+    "location": "https://aww-funnel.3wingsandchips.workers.dev/?k=demo",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/aww_get_root__ios_tiktok_uk.txt",
+    "extra": ""
+  },
+  {
+    "name": "aww_get_l_fc__ios_tiktok_uk",
+    "status": 200,
+    "len": 354885,
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/aww_get_l_fc__ios_tiktok_uk.html",
+    "extra": ""
+  },
+  {
+    "name": "aww_get_l_fc__desktop_chrome",
+    "status": 200,
+    "len": 354885,
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/aww_get_l_fc__desktop_chrome.html",
+    "extra": ""
+  },
+  {
+    "name": "gravy_entry_go_demo__ios_tiktok_uk",
+    "status": 200,
+    "len": 2322,
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/gravy_entry_go_demo__ios_tiktok_uk.json",
+    "extra": "keys=['authorized', 'entryHTML', 'nativeURL', 'stageURL', 'questionnaireURL', 'flowID', 'preserveNativeContext', 'productionFlow'] auth=True fb=None preserve=True entryHTML_len=1234 -> gravy_entry_go_demo__ios_tiktok_uk.entryHTML.html"
+  },
+  {
+    "name": "gravy_entry_go_demo__android_tiktok_uk",
+    "status": 200,
+    "len": 2322,
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/gravy_entry_go_demo__android_tiktok_uk.json",
+    "extra": "keys=['authorized', 'entryHTML', 'nativeURL', 'stageURL', 'questionnaireURL', 'flowID', 'preserveNativeContext', 'productionFlow'] auth=True fb=None preserve=True entryHTML_len=1234 -> gravy_entry_go_demo__android_tiktok_uk.entryHTML.html"
+  },
+  {
+    "name": "gravy_entry_go_demo__desktop_chrome",
+    "status": 200,
+    "len": 2322,
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/gravy_entry_go_demo__desktop_chrome.json",
+    "extra": "keys=['authorized', 'entryHTML', 'nativeURL', 'stageURL', 'questionnaireURL', 'flowID', 'preserveNativeContext', 'productionFlow'] auth=True fb=None preserve=True entryHTML_len=1234 -> gravy_entry_go_demo__desktop_chrome.entryHTML.html"
+  },
+  {
+    "name": "gravy_get_root__ios_tiktok_uk",
+    "status": 200,
+    "len": 41457,
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/gravy_get_root__ios_tiktok_uk.html",
+    "extra": ""
+  },
+  {
+    "name": "shopify_pages_go__ios_tiktok_uk",
+    "status": 200,
+    "len": 166744,
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/shopify_pages_go__ios_tiktok_uk.html",
+    "extra": ""
+  },
+  {
+    "name": "shopify_sitemap_pages",
+    "status": 200,
+    "len": 652,
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/shopify_sitemap_pages.xml",
+    "extra": ""
+  },
+  {
+    "name": "shopify_sitemap_blogs",
+    "status": 200,
+    "len": 332,
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/shopify_sitemap_blogs.xml",
+    "extra": ""
+  },
+  {
+    "name": "shopify_sitemap_collections",
+    "status": 200,
+    "len": 342,
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/shopify_sitemap_collections.xml",
+    "extra": ""
+  }
+]

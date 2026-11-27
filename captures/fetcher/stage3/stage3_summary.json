@@ -1,0 +1,65 @@
+[
+  {
+    "name": "aww_flow_started_before",
+    "status": 200,
+    "elapsed_sec": 0.27,
+    "len": 17,
+    "ct": "application/json",
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage3/aww_flow_started_before.json"
+  },
+  {
+    "name": "aww_delayed_questionnaire__ios_tt",
+    "status": 302,
+    "elapsed_sec": 17.114,
+    "len": 0,
+    "ct": "",
+    "location": "https://aww-funnel.3wingsandchips.workers.dev/l/fc?s1=1882654792241361&cid=E_C_P_TEST_PROBE&px=p2&slot=0",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage3/aww_delayed_questionnaire__ios_tt.txt"
+  },
+  {
+    "name": "aww_flow_started_after",
+    "status": 200,
+    "elapsed_sec": 0.096,
+    "len": 16,
+    "ct": "application/json",
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage3/aww_flow_started_after.json"
+  },
+  {
+    "name": "aww_delayed_questionnaire__desktop",
+    "status": 302,
+    "elapsed_sec": 17.312,
+    "len": 0,
+    "ct": "",
+    "location": "https://aww-funnel.3wingsandchips.workers.dev/l/fc?px=p2&slot=0",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage3/aww_delayed_questionnaire__desktop.txt"
+  },
+  {
+    "name": "gravy_flow_started_before",
+    "status": 200,
+    "elapsed_sec": 0.309,
+    "len": 17,
+    "ct": "application/json",
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage3/gravy_flow_started_before.json"
+  },
+  {
+    "name": "gravy_delayed_questionnaire__ios_tt",
+    "status": 302,
+    "elapsed_sec": 15.134,
+    "len": 0,
+    "ct": "",
+    "location": "https://gravy-clone.3wingsandchips.workers.dev/questionnaire",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage3/gravy_delayed_questionnaire__ios_tt.txt"
+  },
+  {
+    "name": "gravy_flow_started_after",
+    "status": 200,
+    "elapsed_sec": 0.273,
+    "len": 16,
+    "ct": "application/json",
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage3/gravy_flow_started_after.json"
+  }
+]

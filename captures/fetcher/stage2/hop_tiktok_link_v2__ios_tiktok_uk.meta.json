@@ -1,0 +1,102 @@
+{
+  "name": "hop_tiktok_link_v2__ios_tiktok_uk",
+  "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage2/hop_tiktok_link_v2__ios_tiktok_uk.html",
+  "url": "https://www.tiktok.com/link/v2?aid=1988&lang=en&scene=bio_url&target=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fadurl%3D%252F%252Faww-funnel.3wingsandchips.workers.dev%252Fstage%253Fref%253Dec6b4668-4fb7-432b-b12a-5f8773cd5998%2526slot%253D0%2526s1%253D1882654792241361%2526ttclid%253DE_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA%2526px%253Dp2%2526cid%253DE_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA",
+  "method": "GET",
+  "status": 302,
+  "headers": [
+    [
+      "Server",
+      "nginx"
+    ],
+    [
+      "Content-Type",
+      "text/html; charset=utf-8"
+    ],
+    [
+      "Content-Length",
+      "875"
+    ],
+    [
+      "Location",
+      "https://adclick.g.doubleclick.net/pcs/click?adurl=%2F%2Faww-funnel.3wingsandchips.workers.dev%2Fstage%3Fref%3Dec6b4668-4fb7-432b-b12a-5f8773cd5998%26slot%3D0%26s1%3D1882654792241361%26ttclid%3DE_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA%26px%3Dp2%26cid%3DE_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA"
+    ],
+    [
+      "X-Robots-Tag",
+      "noindex"
+    ],
+    [
+      "X-Tt-Logid",
+      "20261126225507BED96E15C1BEBE72F3EE"
+    ],
+    [
+      "Access-Control-Expose-Headers",
+      "x-tt-traceflag,x-tt-logid"
+    ],
+    [
+      "Server-Timing",
+      "inner; dur=26"
+    ],
+    [
+      "x-tt-trace-host",
+      "0102a4e417036dfd640765a52ff31c929fa6ca501023f67a235c1e6dedb482fe624364387f2eb86598a155bfefcf2461a4d824572723fd4a38509d5dd3edcbf24196c23dc55224eee0aef951a55265485bc7504b48eef2de6d02e3eaac36856215aac2a01743acb55dc8f8525f3b2d1c8fa4ba58b2798b19441b19ae7d1a6040a24aacdb106a11a4d01b83c04ecf115dbc7721e319bf3aef219995773899653152acfefa39018c389442594713ad99d005"
+    ],
+    [
+      "x-tt-trace-id",
+      "00-261126225507BED96E15C1BEBE72F3EE-2F3F67CD11E1F101-00"
+    ],
+    [
+      "X-XSS-Protection",
+      "1; mode=block"
+    ],
+    [
+      "X-Frame-Options",
+      "SAMEORIGIN"
+    ],
+    [
+      "x-content-type-options",
+      "nosniff"
+    ],
+    [
+      "Expires",
+      "Thu, 26 Nov 2026 22:55:07 GMT"
+    ],
+    [
+      "Cache-Control",
+      "max-age=0, no-cache, no-store"
+    ],
+    [
+      "Pragma",
+      "no-cache"
+    ],
+    [
+      "Date",
+      "Thu, 26 Nov 2026 22:55:07 GMT"
+    ],
+    [
+      "X-Cache",
+      "TCP_MISS from a88-221-75-150.deploy.akamaitechnologies.com (AkamaiGHost/22.7.1-d04eda59fc1d0839d0412c36284b9f37) (-)"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "x-tt-trace-tag",
+      "id=16;cdn-cache=miss;type=dyn"
+    ],
+    [
+      "Server-Timing",
+      "cdn-cache; desc=MISS, edge; dur=2, origin; dur=106"
+    ],
+    [
+      "X-Origin-Response-Time",
+      "106,88.221.75.150"
+    ],
+    [
+      "X-Akamai-Request-ID",
+      "15b7de27"
+    ]
+  ],
+  "body_len": 875
+}

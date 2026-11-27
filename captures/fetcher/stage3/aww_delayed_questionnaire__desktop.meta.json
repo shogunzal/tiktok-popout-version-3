@@ -1,0 +1,51 @@
+{
+  "name": "aww_delayed_questionnaire__desktop",
+  "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage3/aww_delayed_questionnaire__desktop.txt",
+  "url": "https://aww-funnel.3wingsandchips.workers.dev/delayed-questionnaire?ref=d6b01774-ae17-4c7f-9631-1520813c09d0&px=p2",
+  "method": "GET",
+  "status": 302,
+  "elapsed_sec": 17.312,
+  "headers": [
+    [
+      "Date",
+      "Thu, 26 Nov 2026 22:56:36 GMT"
+    ],
+    [
+      "Content-Length",
+      "0"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "Location",
+      "https://aww-funnel.3wingsandchips.workers.dev/l/fc?px=p2&slot=0"
+    ],
+    [
+      "Cache-Control",
+      "no-store"
+    ],
+    [
+      "Report-To",
+      "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xsZ4HUGGPkNKNzD%2FJdEYPv654dzFCymgJU45QxNju6Vuj%2BwJ3h3XiYPdPq52vfacid8GSJbggMRGLhifXcF9TqSZVOtHuXpW656Vj4h%2FVkw6UAQ6CXbhtVuXLr1N0wzQcb3qZ1t2Cc%2BZ%2Be4yf10TKE9IQVX2w7%2F7\"}]}"
+    ],
+    [
+      "Nel",
+      "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+    ],
+    [
+      "Server",
+      "cloudflare"
+    ],
+    [
+      "CF-RAY",
+      "a60c7c59ff90a0d7-LHR"
+    ],
+    [
+      "alt-svc",
+      "h3=\":443\"; ma=86400"
+    ]
+  ],
+  "body_len": 0
+}

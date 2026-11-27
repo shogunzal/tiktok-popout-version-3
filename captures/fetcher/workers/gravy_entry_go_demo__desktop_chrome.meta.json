@@ -1,0 +1,79 @@
+{
+  "name": "gravy_entry_go_demo__desktop_chrome",
+  "request_profile": "desktop_chrome",
+  "request_payload": {
+    "entryURL": "https://8sebgr-sx.myshopify.com/pages/go?k=demo&ttclid=E_C_P_TEST123&utm_source=tiktok",
+    "requestId": "83784699-8111-4cfa-a28f-d7eff6bc5970"
+  },
+  "response_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/gravy_entry_go_demo__desktop_chrome.json",
+  "url": "https://gravy-clone.3wingsandchips.workers.dev/shopify-entry",
+  "method": "POST",
+  "status": 200,
+  "headers": [
+    [
+      "Date",
+      "Thu, 26 Nov 2026 22:54:23 GMT"
+    ],
+    [
+      "Content-Type",
+      "application/json"
+    ],
+    [
+      "Transfer-Encoding",
+      "chunked"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "Access-Control-Allow-Origin",
+      "https://8sebgr-sx.myshopify.com"
+    ],
+    [
+      "Cache-Control",
+      "no-store"
+    ],
+    [
+      "Vary",
+      "Origin"
+    ],
+    [
+      "Access-Control-Allow-Headers",
+      "content-type"
+    ],
+    [
+      "Access-Control-Allow-Methods",
+      "POST, OPTIONS"
+    ],
+    [
+      "Referrer-Policy",
+      "no-referrer"
+    ],
+    [
+      "Report-To",
+      "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ihwGxVWxK5Wz%2BatCjxA2FI5Jj6zEHow3iyTXs4FGxvk4ZeigIrAd6KsS77%2BNku%2FP0GjvjhY3k5%2FmzUy6MROmrurE5x9X2IIXW0xwbwDxBwC042sfTHGDP5V3zeb50AeiZlZr7vPhcuvhgS%2B8LsJyIdl01dWwD5w5Vw%3D%3D\"}]}"
+    ],
+    [
+      "Nel",
+      "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+    ],
+    [
+      "Content-Encoding",
+      "gzip"
+    ],
+    [
+      "Server",
+      "cloudflare"
+    ],
+    [
+      "CF-RAY",
+      "a60c79846c556442-LHR"
+    ],
+    [
+      "alt-svc",
+      "h3=\":443\"; ma=86400"
+    ]
+  ],
+  "body_len": 2322
+}

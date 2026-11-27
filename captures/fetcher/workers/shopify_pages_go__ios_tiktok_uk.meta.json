@@ -1,0 +1,160 @@
+{
+  "name": "shopify_pages_go__ios_tiktok_uk",
+  "request_profile": "ios_tiktok_uk",
+  "request_payload": null,
+  "response_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/shopify_pages_go__ios_tiktok_uk.html",
+  "url": "https://8sebgr-sx.myshopify.com/pages/go",
+  "method": "GET",
+  "status": 200,
+  "headers": [
+    [
+      "Date",
+      "Thu, 26 Nov 2026 22:54:23 GMT"
+    ],
+    [
+      "Content-Type",
+      "text/html; charset=utf-8"
+    ],
+    [
+      "Transfer-Encoding",
+      "chunked"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "link",
+      "<https://cdn.shopify.com>; rel=\"preconnect\", <https://cdn.shopify.com>; rel=\"preconnect\"; crossorigin, <//8sebgr-sx.myshopify.com/cdn/shop/t/1/assets/base.css?v=101781705924516067561795346083>; as=\"style\"; rel=\"preload\", <//8sebgr-sx.myshopify.com/cdn/shop/t/1/assets/overflow-list.css?v=16727044177065489451795346083>; as=\"style\"; rel=\"preload\", <https://8sebgr-sx.myshopify.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css>; as=\"style\"; rel=\"preload\"; crossorigin, <//8sebgr-sx.myshopify.com/cdn/shop/t/1/compiled_assets/styles.css?v=63869943189176015701795347678&subset=ADwAAAAAAACAAQAAAGIgAAggwG6AAHAAABgFDAIwQUBcACA>; as=\"style\"; rel=\"preload\"; crossorigin, </.well-known/ucp>; rel=\"ucp\"; version=\"2026-08-25\""
+    ],
+    [
+      "product-filtering-backend",
+      "bitset_roaring"
+    ],
+    [
+      "X-Permitted-Cross-Domain-Policies",
+      "none"
+    ],
+    [
+      "etag",
+      "W/\"sfr:computation:v2:eb19bccd0b75909e1318def3d3206e486d37a4b37ef539239ba7141992a0f71c:62b1a0a3e6f38515e1ba729bee211379\""
+    ],
+    [
+      "X-XSS-Protection",
+      "1; mode=block"
+    ],
+    [
+      "Set-Cookie",
+      "_shopify_essential=:AaIaES-1AAEATZtH7wWeAM3x_sM1-lWgUAwOcnh1llG_4xVL3CIxqp-DFrMZLUb6hKfoYJq7leuJjeEJrvi7YwSXJY0:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax"
+    ],
+    [
+      "Set-Cookie",
+      "localization=GB; path=/; expires=Fri, 26 Nov 2027 22:54:23 GMT; SameSite=Lax"
+    ],
+    [
+      "Set-Cookie",
+      "cart_currency=GBP; path=/; expires=Thu, 10 Dec 2026 22:54:23 GMT; SameSite=Lax"
+    ],
+    [
+      "Set-Cookie",
+      "_shopify_cmp=3.ampS_GBENG_t_f_ecyFOMLwRPqYEAAkXvmhJw%234c843280-8aeb-4f08-ae0f-324d30cf9be3-1795733663; domain=8sebgr-sx.myshopify.com; path=/; expires=Sat, 27 Nov 2027 04:54:23 GMT; secure; SameSite=Lax"
+    ],
+    [
+      "x-frame-options",
+      "DENY"
+    ],
+    [
+      "content-security-policy",
+      "block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;"
+    ],
+    [
+      "access-control-allow-origin",
+      "*"
+    ],
+    [
+      "strict-transport-security",
+      "max-age=7889238"
+    ],
+    [
+      "shopify-complexity-score",
+      "63"
+    ],
+    [
+      "shopify-complexity-score-v2",
+      "63"
+    ],
+    [
+      "content-language",
+      "en-GB"
+    ],
+    [
+      "accept-ch",
+      "Sec-CH-Viewport-Width"
+    ],
+    [
+      "powered-by",
+      "Shopify"
+    ],
+    [
+      "alt-svc",
+      "h3=\":443\"; ma=86400"
+    ],
+    [
+      "cf-cache-status",
+      "DYNAMIC"
+    ],
+    [
+      "X-Download-Options",
+      "noopen"
+    ],
+    [
+      "Report-To",
+      "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=RX7fR%2FjKdkUwzwEpQMTW8Lp9P4xDwnNvaRXZvFs9LXENNfMPj%2BUs2VibhwSuNhfY772dF3X6pDYryFAyXmRLaHnV15oudJSiAidvDZqNMTlDnyKLrWzk3kM8upBPB6VfB7iNfcDHpvaV\"}]}"
+    ],
+    [
+      "cdn-cache-control",
+      "no-cache, no-store"
+    ],
+    [
+      "vary",
+      "Accept"
+    ],
+    [
+      "vary",
+      "accept-encoding"
+    ],
+    [
+      "server-timing",
+      "processing;dur=64, db;dur=35, render;dur=13, asn;desc=\"174\", edge;desc=\"LHR\", country;desc=\"GB\", theme;desc=\"203402871158\", pageType;desc=\"page\", servedBy;desc=\"lwzh\", requestID;desc=\"4c843280-8aeb-4f08-ae0f-324d30cf9be3-1795733663\", _y;desc=\"00000000-0000-0000-5000-000000000000\", _s;desc=\"00000000-0000-0000-5000-000000000000\", _cmp;desc=\"3.ampS_GBENG_t_f_ecyFOMLwRPqYEAAkXvmhJw\", _ye;desc=\"1827291263\", _se;desc=\"1795735463\", compressionLevel;desc=\"5\", compressionTime;dur=5.157"
+    ],
+    [
+      "x-request-id",
+      "4c843280-8aeb-4f08-ae0f-324d30cf9be3-1795733663"
+    ],
+    [
+      "X-Content-Type-Options",
+      "nosniff"
+    ],
+    [
+      "Nel",
+      "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}"
+    ],
+    [
+      "x-dc",
+      "gcp-europe-west1,gcp-europe-west1,gcp-europe-west1"
+    ],
+    [
+      "Server",
+      "cloudflare"
+    ],
+    [
+      "Content-Encoding",
+      "gzip"
+    ],
+    [
+      "CF-RAY",
+      "a60c7985cd47b692-LHR"
+    ]
+  ],
+  "body_len": 166744
+}

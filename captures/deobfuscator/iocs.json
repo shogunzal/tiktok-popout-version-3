@@ -1,0 +1,110 @@
+{
+  "shopify_store": {
+    "domain": "8sebgr-sx.myshopify.com",
+    "shop_id": 103264747894,
+    "theme": "Horizon",
+    "currency": "GBP",
+    "country": "GB",
+    "pages": [
+      {
+        "handle": "goh",
+        "id": 715683627382,
+        "created_at": "2026-11-22T14:16:34+00:00",
+        "updated_at": "2026-11-23T07:04:05+00:00",
+        "worker_base": "https://aww-funnel.3wingsandchips.workers.dev"
+      },
+      {
+        "handle": "go",
+        "id": 715678417270,
+        "created_at": "2026-11-22T11:31:07+00:00",
+        "updated_at": "2026-11-22T11:51:50+00:00",
+        "worker_base": "https://gravy-clone.3wingsandchips.workers.dev"
+      }
+    ],
+    "white_page": "https://8sebgr-sx.myshopify.com/blogs/news"
+  },
+  "cloudflare_workers_account": "3wingsandchips.workers.dev",
+  "workers": {
+    "active_production": "aww-funnel.3wingsandchips.workers.dev",
+    "legacy_prototype": "gravy-clone.3wingsandchips.workers.dev",
+    "passive_osint_siblings_urlscan": [
+      "abisgay.3wingsandchips.workers.dev",
+      "relay-shou.3wingsandchips.workers.dev"
+    ]
+  },
+  "worker_endpoints": [
+    "POST /shopify-entry",
+    "GET /stage",
+    "GET /delayed-questionnaire",
+    "GET /flow-load-started",
+    "GET /l/fc",
+    "GET /visit",
+    "POST /fingerprint",
+    "GET /affiliate-hybrid-event"
+  ],
+  "open_redirectors_abused": [
+    "https://www.tiktok.com/link/v2?aid=1988&lang=en&scene=bio_url&target=...",
+    "https://adclick.g.doubleclick.net/pcs/click?adurl=..."
+  ],
+  "tiktok_deep_link_schemes": [
+    "snssdk1233://webview",
+    "snssdk1233://webview_popup",
+    "snssdk1233://feed",
+    "aweme://webview_popup",
+    "aweme://lynxview_popup",
+    "aweme://feed",
+    "aweme://__foryou"
+  ],
+  "key_spark_flags": [
+    "silent_load_type=1",
+    "use_spark=1",
+    "use_forest=1",
+    "hide_nav_bar=1",
+    "hide_more=1",
+    "hide_status_bar=1",
+    "hide_title_bar=1",
+    "hide_bottom_nav_bar=1",
+    "should_full_screen=1",
+    "isLinkFullScreen=1",
+    "landPageShowType=2",
+    "container_bg_color=00000000",
+    "loading_bg_color=00000000",
+    "hide_loading=1",
+    "show_loading=0",
+    "trans_status_bar=1"
+  ],
+  "tiktok_pixels": {
+    "aww_funnel_px_p2": "DAHJ81BC77UEK70HT9N0",
+    "gravy_clone": "DC1EG8JC77UDGJANVGD0"
+  },
+  "affiliate_chain": {
+    "network_tracker": "linkthem.net",
+    "tracker_redirect": "go.linkthem.net/aff_c",
+    "source_name": "glitchy",
+    "offer_id": "5084",
+    "aff_id": "201951",
+    "campaign": "FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026",
+    "advertiser_domain": "freecash.com",
+    "adjust_link": "freecash.go.link",
+    "adjust_token": "1tx4w2qo_1uyf6g9q",
+    "ios_app_id": "1673567402",
+    "android_package": "com.freecash.app2"
+  },
+  "campaign_params": {
+    "px": "p2",
+    "s1": "1882654792241361",
+    "utm_source": "tiktok",
+    "utm_medium": "cpc",
+    "utm_campaign": "Lead generation20261123125542",
+    "utm_content": "7711354016529285127_Ad name2026-11-23 02:05:19"
+  },
+  "measured_server_hold_seconds": {
+    "aww_funnel_ios_tt": 17.114,
+    "aww_funnel_desktop": 17.312,
+    "gravy_clone_ios_tt": 15.134
+  },
+  "pwa_artifacts": {
+    "manifest_json": "404 on both shopify and worker",
+    "service_worker": "404 on both shopify and worker"
+  }
+}

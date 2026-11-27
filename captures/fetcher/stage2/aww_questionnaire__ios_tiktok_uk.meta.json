@@ -1,0 +1,58 @@
+{
+  "name": "aww_questionnaire__ios_tiktok_uk",
+  "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage2/aww_questionnaire__ios_tiktok_uk.html",
+  "url": "https://aww-funnel.3wingsandchips.workers.dev/l/fc?cid=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&ttclid=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&slot=0&px=p2",
+  "method": "GET",
+  "status": 200,
+  "headers": [
+    [
+      "Date",
+      "Thu, 26 Nov 2026 22:55:06 GMT"
+    ],
+    [
+      "Content-Type",
+      "text/html; charset=utf-8"
+    ],
+    [
+      "Transfer-Encoding",
+      "chunked"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "Cache-Control",
+      "no-store"
+    ],
+    [
+      "X-Robots-Tag",
+      "noindex, nofollow"
+    ],
+    [
+      "Report-To",
+      "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=3gmf%2FKrDX5bGh9uEbYLB1%2Fm8QxKBCTSTLFWiLK12UTdzE3O3eeDFrk4MtrNC2cX00UVGwzTCz8%2Beu26f1FCTCRd6gm66%2FqHbnqZJtj8O%2B0yoIbme5ja8Q%2BUuK%2FfO3apambD%2FYUjwSHZZIonyZfO1ic70S5F4aosd\"}]}"
+    ],
+    [
+      "Nel",
+      "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+    ],
+    [
+      "Content-Encoding",
+      "gzip"
+    ],
+    [
+      "Server",
+      "cloudflare"
+    ],
+    [
+      "CF-RAY",
+      "a60c7a92f9e89559-LHR"
+    ],
+    [
+      "alt-svc",
+      "h3=\":443\"; ma=86400"
+    ]
+  ],
+  "body_len": 356186
+}

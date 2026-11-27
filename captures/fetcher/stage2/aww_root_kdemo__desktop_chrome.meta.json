@@ -1,0 +1,42 @@
+{
+  "name": "aww_root_kdemo__desktop_chrome",
+  "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage2/aww_root_kdemo__desktop_chrome.txt",
+  "url": "https://aww-funnel.3wingsandchips.workers.dev/?k=demo",
+  "method": "GET",
+  "status": 404,
+  "headers": [
+    [
+      "Date",
+      "Thu, 26 Nov 2026 22:55:06 GMT"
+    ],
+    [
+      "Content-Length",
+      "0"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "Report-To",
+      "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=N16c0CZYnupbIxGihYFiOeKZiqcwA7wz%2BnWDqKNOJO5LrKA%2F2ikT%2Fa2hvsuC5nUblRh5dIdSgBVXQET%2BSg1qGYrAHC3TsIzxvSdc3V8AVGCJ9q4o0FScO7fF4BFeSJ%2BWchAV8cI1vqFh3UrQ1u8jpe%2FYUOBbTxqN\"}]}"
+    ],
+    [
+      "Nel",
+      "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+    ],
+    [
+      "Server",
+      "cloudflare"
+    ],
+    [
+      "CF-RAY",
+      "a60c7a948b55ef25-LHR"
+    ],
+    [
+      "alt-svc",
+      "h3=\":443\"; ma=86400"
+    ]
+  ],
+  "body_len": 0
+}

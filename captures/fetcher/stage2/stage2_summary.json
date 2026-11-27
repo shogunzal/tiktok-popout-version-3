@@ -1,0 +1,74 @@
+[
+  {
+    "name": "aww_stage__ios_tiktok_uk",
+    "status": 200,
+    "len": 3275,
+    "ct": "text/html; charset=utf-8",
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage2/aww_stage__ios_tiktok_uk.html"
+  },
+  {
+    "name": "aww_stage__desktop_chrome",
+    "status": 200,
+    "len": 3275,
+    "ct": "text/html; charset=utf-8",
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage2/aww_stage__desktop_chrome.html"
+  },
+  {
+    "name": "aww_questionnaire__ios_tiktok_uk",
+    "status": 200,
+    "len": 356186,
+    "ct": "text/html; charset=utf-8",
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage2/aww_questionnaire__ios_tiktok_uk.html"
+  },
+  {
+    "name": "aww_root_kdemo__ios_tiktok_uk",
+    "status": 200,
+    "len": 2870,
+    "ct": "text/html",
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage2/aww_root_kdemo__ios_tiktok_uk.html"
+  },
+  {
+    "name": "aww_root_kdemo__desktop_chrome",
+    "status": 404,
+    "len": 0,
+    "ct": "",
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage2/aww_root_kdemo__desktop_chrome.txt"
+  },
+  {
+    "name": "gravy_stage__ios_tiktok_uk",
+    "status": 200,
+    "len": 4207,
+    "ct": "text/html",
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage2/gravy_stage__ios_tiktok_uk.html"
+  },
+  {
+    "name": "gravy_questionnaire__ios_tiktok_uk",
+    "status": 200,
+    "len": 41374,
+    "ct": "text/html",
+    "location": "",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage2/gravy_questionnaire__ios_tiktok_uk.html"
+  },
+  {
+    "name": "hop_tiktok_link_v2__ios_tiktok_uk",
+    "status": 302,
+    "len": 875,
+    "ct": "text/html; charset=utf-8",
+    "location": "https://adclick.g.doubleclick.net/pcs/click?adurl=%2F%2Faww-funnel.3wingsandchips.workers.dev%2Fstage%3Fref%3Dec6b4668-4fb7-432b-b12a-5f8773cd5998%26slot%3D0%26s1%3D1882654792241361%26ttclid%3DE_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA%26px%3Dp2%26cid%3DE_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage2/hop_tiktok_link_v2__ios_tiktok_uk.html"
+  },
+  {
+    "name": "hop_doubleclick__ios_tiktok_uk",
+    "status": 302,
+    "len": 0,
+    "ct": "text/html; charset=UTF-8",
+    "location": "//aww-funnel.3wingsandchips.workers.dev/stage?ref=ec6b4668-4fb7-432b-b12a-5f8773cd5998&slot=0&s1=1882654792241361&ttclid=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&px=p2&cid=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA",
+    "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage2/hop_doubleclick__ios_tiktok_uk.html"
+  }
+]

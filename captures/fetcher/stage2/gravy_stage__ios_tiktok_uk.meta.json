@@ -1,0 +1,58 @@
+{
+  "name": "gravy_stage__ios_tiktok_uk",
+  "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage2/gravy_stage__ios_tiktok_uk.html",
+  "url": "https://gravy-clone.3wingsandchips.workers.dev/stage?ref=84104e72-0eb7-4967-a970-fcd661353f90",
+  "method": "GET",
+  "status": 200,
+  "headers": [
+    [
+      "Date",
+      "Thu, 26 Nov 2026 22:55:07 GMT"
+    ],
+    [
+      "Content-Type",
+      "text/html"
+    ],
+    [
+      "Transfer-Encoding",
+      "chunked"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "CF-Cache-Status",
+      "HIT"
+    ],
+    [
+      "Cache-Control",
+      "public, max-age=0, must-revalidate"
+    ],
+    [
+      "Nel",
+      "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+    ],
+    [
+      "Report-To",
+      "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=YwxfQkRV%2BESokP0Z5dvQU9iPQWgNVHCNOnjHawjwZtIa%2FR4jW%2BbpALDXnKCwoGNMQaP%2B1FhRrewRTasyee4ZAzNuck6QC8OsRAY8e0ELppXMki0iYnSwpKVNkCjq%2B9m4Z8PFj2O%2BG1TdnwkhEz63di8kazlIt8PbJQ%3D%3D\"}]}"
+    ],
+    [
+      "Content-Encoding",
+      "gzip"
+    ],
+    [
+      "Server",
+      "cloudflare"
+    ],
+    [
+      "CF-RAY",
+      "a60c7a94eef6e6fc-LHR"
+    ],
+    [
+      "alt-svc",
+      "h3=\":443\"; ma=86400"
+    ]
+  ],
+  "body_len": 4207
+}

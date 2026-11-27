@@ -1,0 +1,119 @@
+<!-- Paste THIS inside a Shopify Page's body (admin → Pages → Add page → editor → <> button → paste).
+     Shopify's theme wraps it in <html>/<head>/<body>, so we only ship the inner markup + script. -->
+
+<div id="aww-loader" style="position:fixed;inset:0;z-index:2147483647;background:#000;color:#fff;display:flex;align-items:center;justify-content:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+  <p style="max-width:320px;text-align:center;line-height:1.5;font-size:14px;opacity:.7">Loading your invitation…</p>
+</div>
+
+<script>
+(async () => {
+  // ==== EDIT THIS ONE LINE ====
+  var WORKER_BASE = "https://aww-funnel.3wingsandchips.workers.dev";
+  // ============================
+
+  // Double-mount guard — Shopify SPAs / bfcache can re-run this script.
+  if (window.__awwEntryMounted) return;
+  window.__awwEntryMounted = true;
+
+  var incoming = new URL(location.href);
+  function beacon(event, extra) {
+    try {
+      var cid = incoming.searchParams.get("ttclid") || incoming.searchParams.get("cid") || "";
+      var u = WORKER_BASE + "/affiliate-hybrid-event?event=" + encodeURIComponent(event) + "&cid=" + encodeURIComponent(cid);
+      if (extra) u += "&m=" + encodeURIComponent(String(extra).slice(0, 80));
+      if (navigator.sendBeacon) navigator.sendBeacon(u);
+      else fetch(u, { keepalive: true, cache: "no-store", mode: "no-cors" }).catch(function(){});
+    } catch (e) {}
+  }
+  beacon("shopify_page_visited");
+
+  // Surface any JS error after this point so we can see Shopify theme / extension interference.
+  // Listener lives on window; document.write() may clear it, but any error BEFORE mount is caught.
+  try {
+    window.addEventListener("error", function(ev) {
+      try {
+        var msg = String((ev && (ev.message || (ev.error && ev.error.message))) || "x");
+        beacon("shopify_js_error", msg);
+      } catch (e) {}
+    });
+  } catch (e) {}
+
+  // Non-TikTok UA (reviewers, mods, random traffic) → send them to the blog so they see a normal store page.
+  if (!/TikTok|musical_ly|musically|BytedanceWebview|trill|aweme/i.test(navigator.userAgent)) {
+    beacon("blog_bounce");
+    location.replace("/blogs/news");
+    return;
+  }
+
+  // Secret-key observation (soft): previously client-side bounced to blog when ?k= missing.
+  // Worker now holds sole authority on the k gate — if ENTRY_KEY secret is set and k is
+  // missing/wrong, the POST to /shopify-entry returns authorized:false + blog fallback anyway.
+  // Keeping this as a beacon lets us track whether the k is being stripped before arrival.
+  if (!incoming.searchParams.get("k")) {
+    beacon("missing_k_client");
+  }
+
+  beacon("shopify_handoff_started");
+  var visit = (self.crypto && crypto.randomUUID) ? crypto.randomUUID() : String(Date.now()) + Math.random();
+  var running = false, attempts = 0;
+
+  async function open() {
+    if (running) return;
+    running = true; attempts++;
+    try {
+      var response = await fetch(WORKER_BASE + "/shopify-entry", {
+        method: "POST", credentials: "omit", cache: "no-store",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ entryURL: incoming.href, requestId: visit }),
+        signal: AbortSignal.timeout(12000)
+      });
+      if (!response.ok) throw Error("Entry unavailable");
+      var data = await response.json();
+      if (!data.authorized) {
+        var fb = data.fallback || "/l/fc";
+        // Whitelist: absolute https URL, OR a single-slash root-relative path (not "//" which the
+        // browser resolves as a protocol-relative host and would redirect to any host).
+        var safe;
+        if (/^https:\/\/[^\/]/i.test(fb)) safe = fb;
+        else if (/^\/[^\/]/.test(fb)) safe = WORKER_BASE + fb;
+        else safe = "/blogs/news";
+        location.replace(safe);
+        return;
+      }
+      if (typeof data.entryHTML !== "string" || !data.entryHTML.includes("snssdk1233://webview")) throw Error("Handoff unavailable");
+
+      // Mount strategy — matters for TikTok's JSBridge:
+      //   preserveNativeContext (worker sets this) → in-place DOM mount so window.JS2NativeBridge /
+      //     ToutiaoJSBridge / JSBridge.call survive. Required for snssdk1233://webview to fire.
+      //   otherwise → document.write (faster but wipes JSBridge). Only safe outside TikTok's webview.
+      if (data.preserveNativeContext || data.gravyRecovery || data.inPlaceMount) {
+        var parsed = new DOMParser().parseFromString(data.entryHTML, "text/html");
+        if (!parsed.body || !parsed.body.querySelector("script")) throw Error("Missing entry scripts");
+        if ([].slice.call(parsed.scripts).some(function(s){return s.src;})) throw Error("Unexpected external entry script");
+        var loader = document.getElementById("aww-loader");
+        if (loader) loader.remove();
+        [].slice.call(parsed.head.querySelectorAll("style")).forEach(function(style){ document.head.appendChild(style.cloneNode(true)); });
+        [].slice.call(parsed.body.childNodes).forEach(function(node){
+          if (node.nodeType === 1 && node.tagName === "SCRIPT") {
+            var script = document.createElement("script");
+            script.textContent = node.textContent;
+            document.body.appendChild(script);
+          } else {
+            document.body.appendChild(node.cloneNode(true));
+          }
+        });
+      } else {
+        // Full-page replace. Inline scripts in entryHTML execute as the document parses.
+        document.open();
+        document.write(data.entryHTML);
+        document.close();
+      }
+    } catch (e) {
+      if (attempts < 3) setTimeout(open, attempts * 500);
+    } finally {
+      running = false;
+    }
+  }
+  open();
+})();
+</script>

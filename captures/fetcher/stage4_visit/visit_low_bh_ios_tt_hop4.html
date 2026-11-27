@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge" />
+  <meta name="apple-itunes-app" content="app-id=1673567402" />
+
+  <!-- HTML Meta Tags -->
+  <title>Freecash</title>
+
+  <!-- Facebook Meta Tags -->
+  <meta property="og:title" content="Freecash" />
+  <meta property="og:image" content="https://www.apptrace.com/api/app/1673567402/artwork_url_512" />
+  <meta property="og:type" content="website" />
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:title" content="Freecash" />
+  <meta name="twitter:image" content="https://www.apptrace.com/api/app/1673567402/artwork_url_512" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+    .container {
+      padding: 120px;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+      gap: 40px;
+    }
+    @media (max-width: 480px) {
+      .container {
+        padding: 68px;
+      }
+    }
+    @media (max-width: 320px) {
+      .container {
+        padding: 68px 0px;
+      }
+    }
+    .element-hidden {
+      display: none;
+    }
+    .element-visibility-hidden {
+      visibility: hidden;
+    }
+    .content-item {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      gap: 16px;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+    }
+    .processing-container {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      gap: 8px;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+    }
+    .processing-text {
+      font-weight: 500;
+      font-size: 20px;
+      line-height: 28px;
+      color: #000000;
+    }
+    .app-name {
+      font-weight: 600;
+      font-size: 20px;
+      line-height: 28px;
+      color: #000000;
+      text-align: center;
+    }
+    .spinner-container {
+      width: 24px;
+      height: 24px;
+    }
+    @-webkit-keyframes spin {
+      from { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
+      to { -webkit-transform: rotate(360deg); transform: rotate(360deg); }
+    }
+    @keyframes spin {
+      from { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
+      to { -webkit-transform: rotate(360deg); transform: rotate(360deg); }
+    }
+    .spinner {
+      display: -webkit-inline-box;
+      display: -ms-inline-flexbox;
+      display: inline-flex;
+      width: 16px;
+      height: 16px;
+      vertical-align: middle;
+      border: solid 2px #eceef4;
+      border-color: #9ca2bd #eceef4 #eceef4 #eceef4;
+      border-radius: 50%;
+      -webkit-animation: spin 800ms linear infinite;
+      animation: spin 800ms linear infinite;
+    }
+    .app-icon {
+      width: 100px;
+      height: 100px;
+      border-radius: 23px;
+    }
+    @-webkit-keyframes skeletonBar {
+      from { -webkit-transform: skewX(-10deg) translateX(-100%); transform: skewX(-10deg) translateX(-100%); }
+      to { -webkit-transform: skewX(-10deg) translateX(100%); transform: skewX(-10deg) translateX(100%); }
+    }
+    @keyframes skeletonBar {
+      from { -webkit-transform: skewX(-10deg) translateX(-100%); transform: skewX(-10deg) translateX(-100%); }
+      to { -webkit-transform: skewX(-10deg) translateX(100%); transform: skewX(-10deg) translateX(100%); }
+    }
+    .app-icon-skeleton {
+      border-radius: 23px;
+      width: 100px;
+      height: 100px;
+      position: relative;
+      overflow: hidden;
+      background: #e0e2ec;
+    }
+    /* Flattened from nested CSS so older browsers render it */
+    .app-icon-skeleton::after {
+      position: absolute;
+      right: 0;
+      left: 0;
+      height: 100%;
+      background-image: -webkit-gradient(
+        linear, left top, right top,
+        from(hsla(0, 0%, 100%, 0)),
+        color-stop(40%, hsla(0, 0%, 100%, 0.6)),
+        color-stop(50%, hsla(0, 0%, 100%, 0.6)),
+        to(hsla(0, 0%, 100%, 0))
+      );
+      background-image: linear-gradient(
+        90deg,
+        hsla(0, 0%, 100%, 0) 0%,
+        hsla(0, 0%, 100%, 0.6) 40%,
+        hsla(0, 0%, 100%, 0.6) 50%,
+        hsla(0, 0%, 100%, 0) 100%
+      );
+      -webkit-animation: skeletonBar 2s ease-in-out infinite;
+      animation: skeletonBar 2s ease-in-out infinite;
+      content: "";
+    }
+    .delay-text {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px;
+      color: #565c78;
+    }
+    .delay-button {
+      background-color: #f4f6f9;
+      border: 1px solid #e0e2ec;
+      -webkit-box-shadow: 0 1px 1px 0 rgba(110, 116, 146, 0.12);
+      box-shadow: 0 1px 1px 0 rgba(110, 116, 146, 0.12);
+      padding: 8px 16px 8px 8px;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    .delay-button:hover {
+      background-color: #e0e2ec;
+      border: 1px solid #b5bad0;
+    }
+    .delay-button-content {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      gap: 8px;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+    }
+    .delay-button-text {
+      color: #191d2f;
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      font-size: 20px;
+      font-weight: 400;
+      line-height: 28px;
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="content-item">
+    <div class="processing-container">
+      <div class="spinner-container">
+        <div class="spinner"></div>
+      </div>
+      <div class="processing-text" data-i18n-key="processing-text"></div>
+    </div>
+    <div class="app-name">Freecash</div>
+    <!-- No src when the app has no icon: nothing loads, nothing errors, and the skeleton below stays. -->
+    <img class="app-icon element-hidden" onclick="redirect_to_store()" id="appIcon" alt="App icon" src="https://www.apptrace.com/api/app/1673567402/artwork_url_512" />
+    <div class="app-icon-skeleton" id="appIconSkeleton"></div>
+  </div>
+  <div class="content-item element-visibility-hidden" id="delayContent">
+    <div class="delay-text" data-i18n-key="delay-text"></div>
+    <button class="delay-button" onclick="redirect_to_store()">
+      <div class="delay-button-content">
+        <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path
+            d="M24.6667 14.6666V23.3333C24.6667 24.0706 24.0707 24.6666 23.3334 24.6666H8.66671C7.93071 24.6666 7.33337 24.0706 7.33337 23.3333V8.66659C7.33337 7.93059 7.93071 7.33325 8.66671 7.33325H17.3334"
+            stroke="currentColor"
+          />
+          <path d="M26 12.0001V4.66675H18.6666" stroke="currentColor" />
+          <path d="M26 4.66675L16 16.0001" stroke="currentColor" />
+        </svg>
+        <div class="delay-button-text" data-i18n-key="delay-button-text"></div>
+      </div>
+    </button>
+  </div>
+</div>
+<script>
+  const defaultLocale = "en";
+  const browserLanguage = navigator.language;
+
+  const locale = browserLanguage?.split("-")[0] ?? defaultLocale;
+
+  const translations = {
+    en: {
+      "processing-text": "Redirecting you to...",
+      "delay-text": "Taking too long?",
+      "delay-button-text": "Open app",
+    },
+    de: {
+      "processing-text": "Sie werden weitergeleitet zu ...",
+      "delay-text": "Dauert es zu lange?",
+      "delay-button-text": "App öffnen",
+    },
+    zh: {
+      "processing-text": "正在将您转到...",
+      "delay-text": "等待时间过长?",
+      "delay-button-text": "打开应用",
+    },
+    fr: {
+      "processing-text": "Nous vous redirigeons vers...",
+      "delay-text": "Cela prend trop de temps ?",
+      "delay-button-text": "Ouvrir l'application",
+    },
+    ja: {
+      "processing-text": "リダイレクト中です",
+      "delay-text": "時間がかかりすぎていますか?",
+      "delay-button-text": "アプリを開く",
+    },
+    ko: {
+      "processing-text": "다음 페이지로 리디렉션 :",
+      "delay-text": "지연 문제가 있으신가요?",
+      "delay-button-text": "앱 실행",
+    },
+    pt: {
+      "processing-text": "Você está sendo redirecionado(a) para...",
+      "delay-text": "Está demorando muito?",
+      "delay-button-text": "Abrir aplicativo",
+    },
+    ru: {
+      "processing-text": "Перенаправляем в…",
+      "delay-text": "Слишком долго?",
+      "delay-button-text": "Открыть приложение",
+    },
+    es: {
+      "processing-text": "Redirigiéndote a...",
+      "delay-text": "¿Ya pasó mucho tiempo?",
+      "delay-button-text": "Abrir la aplicación",
+    },
+    tr: {
+      "processing-text": "Yönlendiriliyor...",
+      "delay-text": "Uzun mu sürdü?",
+      "delay-button-text": "Uygulamayı aç",
+    },
+    vi: {
+      "processing-text": "Chuyển hướng đến...",
+      "delay-text": "Mất quá nhiều thời gian để phản hồi?",
+      "delay-button-text": "Mở ứng dụng",
+    },
+  };
+
+  const translateElement = (element) => {
+    const translationKey = element.getAttribute("data-i18n-key");
+    const localeTranslations =
+      translations[locale] ?? translations[defaultLocale];
+    element.innerText = localeTranslations[translationKey];
+  };
+
+  document.addEventListener("DOMContentLoaded", () => {
+    document.querySelectorAll("[data-i18n-key]").forEach(translateElement);
+  });
+
+
+  // The store redirect carries the itms-apps scheme when the link opts into the native store, so
+  // the App Store app takes over. The app is never opened by its scheme here: Instagram's in-app
+  // browser answers an unknown scheme with an error page instead of a prompt.
+  var store_link = "itms-apps://apps.apple.com/app/id1673567402?mt\u003D8";
+
+  var appIconImage = document.getElementById('appIcon');
+  var appIconSkeleton = document.getElementById('appIconSkeleton');
+
+  appIconImage.addEventListener("error", () => {
+    appIconSkeleton.style.display = "block";
+    appIconImage.style.display = "none";
+  });
+  appIconImage.addEventListener("load", () => {
+    appIconImage.style.display = "block";
+    appIconSkeleton.style.display = "none";
+  });
+
+  var page_was_hidden = false;
+
+  function redirect_to_store() {
+    if (!document.hidden) {
+      window.location.href = store_link;
+    }
+  }
+
+  document.addEventListener("visibilitychange", function () {
+    if (document.hidden) {
+      page_was_hidden = true;
+    }
+  });
+
+  setTimeout(function () {
+    document.getElementById("delayContent").style.visibility = "visible";
+    appIconImage.style.cursor = "pointer";
+  }, 1600);
+  setTimeout(function () {
+    if (!page_was_hidden) {
+      redirect_to_store();
+    }
+  }, 3000);
+
+</script>
+</body>
+</html>

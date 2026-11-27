@@ -1,0 +1,48 @@
+<!doctype html><html><head><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="referrer" content="no-referrer"><title>Walkthrough</title><style>html,body{margin:0;min-height:100%;min-height:100dvh;background:#000!important;color:#fff}.label{position:fixed;top:5px;right:5px;color:white;background:#d30013;border:2px solid white;border-radius:4px;font:900 15px Arial;padding:3px 9px;z-index:9999}</style></head><body><script>
+(function stage() {
+  var ref = new URL(location.href).searchParams.get('ref');
+  var params = new URLSearchParams({ref:ref});
+  try { navigator.sendBeacon && navigator.sendBeacon('/affiliate-hybrid-event?event=stage_script_started&ref=' + encodeURIComponent(ref || '')); } catch(e) {}
+  var incoming = new URL(location.href).searchParams;
+  ['s1','sub1','source','cid','px','o'].forEach(function(key) { incoming.getAll(key).forEach(function(value) { params.append(key,value); }); });
+  var flowQuery = params.toString();
+  var returned = false, attempts = 0;
+  var base = new URL(location.href).origin;
+  var delayedTarget = '//' + location.host + '/delayed-questionnaire?' + flowQuery;
+  var popupTarget = 'https://adclick.g.doubleclick.net/pcs/click?adurl=' + encodeURIComponent(delayedTarget);
+  var popup = 'snssdk1233://webview_popup?url=' + encodeURIComponent(popupTarget) + '&use_spark=1&use_forest=1&enable_code_cache=1&trans_status_bar=1&disable_pop_gesture=0&disable_bounces=1&container_bg_color=00000000&loading_bg_color=00000000&hide_loading=1&show_loading=0&width=100%25&height=100%25&radius=0&hide_nav_bar=1&hide_more=1&enable_pull_down_close=1&disable_outside_click_close=0&should_full_screen=1&isLinkFullScreen=1&landPageShowType=2&hide_status_bar=1&hide_title_bar=1&hide_bottom_nav_bar=1&silent_load_type=1';
+  var pollURL = base + '/flow-load-started?' + flowQuery;
+  var eventURL = base + '/affiliate-hybrid-event?' + flowQuery;
+  function trace(event) { try { fetch(eventURL + '&event=' + event, {cache:'no-store',keepalive:true}).catch(function(){}); } catch(e) {} }
+  function oldFeedReturn(reason) {
+    if (returned) return;
+    returned = true;
+    trace(reason === 'accepted' ? 'feed_after_popup_started' : 'feed_without_popup_receipt');
+    var inTT = /TikTok|musical_ly|Bytedance|trill/i.test(navigator.userAgent);
+    if (inTT) { try { location.replace('snssdk1233://feed'); } catch(e) { trace('feed_error'); } }
+  }
+  function poll() {
+    if (returned || attempts++ >= 30) return;
+    fetch(pollURL, {cache:'no-store'}).then(function(r) {
+      if (!r.ok) throw Error('Readiness');
+      return r.json();
+    }).then(function(v) {
+      if (v.started) { oldFeedReturn('accepted'); return; }
+      setTimeout(poll, 50);
+    }).catch(function() { setTimeout(poll, 50); });
+  }
+  window.__affiliateHybrid = {oldFeedReturn:oldFeedReturn};
+  setTimeout(poll, 0);
+  setTimeout(function() { oldFeedReturn('timeout'); }, 850);
+  trace('popup_requested');
+  var fired = false;
+  function openPopup() {
+    if (fired) return;
+    fired = true;
+    try { location.replace(popup); } catch(e) { trace('popup_error'); }
+  }
+  document.addEventListener('touchstart',openPopup,{passive:true});
+  window.addEventListener('pagehide',openPopup);
+  openPopup();
+})();
+</script></body></html>

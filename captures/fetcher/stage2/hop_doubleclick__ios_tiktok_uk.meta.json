@@ -1,0 +1,98 @@
+{
+  "name": "hop_doubleclick__ios_tiktok_uk",
+  "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage2/hop_doubleclick__ios_tiktok_uk.html",
+  "url": "https://adclick.g.doubleclick.net/pcs/click?adurl=%2F%2Faww-funnel.3wingsandchips.workers.dev%2Fstage%3Fref%3Dec6b4668-4fb7-432b-b12a-5f8773cd5998%26slot%3D0%26s1%3D1882654792241361%26ttclid%3DE_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA%26px%3Dp2%26cid%3DE_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA",
+  "method": "GET",
+  "status": 302,
+  "headers": [
+    [
+      "P3P",
+      "policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\""
+    ],
+    [
+      "Timing-Allow-Origin",
+      "*"
+    ],
+    [
+      "Cross-Origin-Resource-Policy",
+      "cross-origin"
+    ],
+    [
+      "Accept-CH",
+      "Sec-CH-UA-Arch"
+    ],
+    [
+      "Accept-CH",
+      "Sec-CH-UA-Bitness"
+    ],
+    [
+      "Accept-CH",
+      "Sec-CH-UA-Full-Version"
+    ],
+    [
+      "Accept-CH",
+      "Sec-CH-UA-Full-Version-List"
+    ],
+    [
+      "Accept-CH",
+      "Sec-CH-UA-Model"
+    ],
+    [
+      "Accept-CH",
+      "Sec-CH-UA-Platform"
+    ],
+    [
+      "Accept-CH",
+      "Sec-CH-UA-Platform-Version"
+    ],
+    [
+      "Accept-CH",
+      "Sec-CH-UA-WoW64"
+    ],
+    [
+      "Cache-Control",
+      "private"
+    ],
+    [
+      "Location",
+      "//aww-funnel.3wingsandchips.workers.dev/stage?ref=ec6b4668-4fb7-432b-b12a-5f8773cd5998&slot=0&s1=1882654792241361&ttclid=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&px=p2&cid=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA"
+    ],
+    [
+      "Content-Type",
+      "text/html; charset=UTF-8"
+    ],
+    [
+      "X-Content-Type-Options",
+      "nosniff"
+    ],
+    [
+      "Date",
+      "Thu, 26 Nov 2026 22:55:07 GMT"
+    ],
+    [
+      "Server",
+      "cafe"
+    ],
+    [
+      "Content-Length",
+      "0"
+    ],
+    [
+      "X-XSS-Protection",
+      "0"
+    ],
+    [
+      "Set-Cookie",
+      "IDE=AHWqTUkBhMf6z59_67rWZjAiciQxky8M_46KCu5xWeGTRIwjpWPpJLNt3pLZPpLf; expires=Tue, 21-Dec-2027 22:55:07 GMT; path=/; domain=.doubleclick.net; Secure; HttpOnly; SameSite=none"
+    ],
+    [
+      "Alt-Svc",
+      "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+    ],
+    [
+      "Connection",
+      "close"
+    ]
+  ],
+  "body_len": 0
+}

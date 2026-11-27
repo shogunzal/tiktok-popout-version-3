@@ -1,0 +1,118 @@
+{
+  "results": [
+    {
+      "submitter": {},
+      "canonical": {
+        "task": {
+          "url": "abisgay.3wingsandchips.workers.dev"
+        },
+        "page": {
+          "url": "abisgay.3wingsandchips.workers.dev"
+        }
+      },
+      "task": {
+        "visibility": "public",
+        "method": "api",
+        "domain": "abisgay.3wingsandchips.workers.dev",
+        "apexDomain": "3wingsandchips.workers.dev",
+        "time": "2026-11-19T21:08:54.382Z",
+        "uuid": "01a1f5a4-0373-727b-9c74-d92a6b671d6e",
+        "url": "http://abisgay.3wingsandchips.workers.dev/"
+      },
+      "stats": {
+        "uniqIPs": 2,
+        "uniqCountries": 1,
+        "dataLength": 4130,
+        "encodedDataLength": 4482,
+        "requests": 6
+      },
+      "page": {
+        "server": "cloudflare",
+        "redirected": "https-only",
+        "ip": "172.67.214.148",
+        "apexDomainAgeDays": 5,
+        "mimeType": "text/html",
+        "url": "https://abisgay.3wingsandchips.workers.dev/",
+        "tlsValidDays": 89,
+        "tlsAgeDays": 17,
+        "domainAgeDays": 0,
+        "tlsValidFrom": "2026-11-01T22:35:52.000Z",
+        "domain": "abisgay.3wingsandchips.workers.dev",
+        "apexDomain": "3wingsandchips.workers.dev",
+        "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+        "asn": "AS13335",
+        "tlsIssuer": "YE1",
+        "status": "200"
+      },
+      "labels": [],
+      "_id": "01a1f5a4-0373-727b-9c74-d92a6b671d6e",
+      "_score": null,
+      "sort": [
+        1795122534382,
+        "01a1f5a4-0373-727b-9c74-d92a6b671d6e"
+      ],
+      "result": "https://urlscan.io/api/v1/result/01a1f5a4-0373-727b-9c74-d92a6b671d6e/",
+      "screenshot": "https://urlscan.io/screenshots/01a1f5a4-0373-727b-9c74-d92a6b671d6e.png"
+    },
+    {
+      "submitter": {},
+      "canonical": {
+        "task": {
+          "url": "relay-shou.3wingsandchips.workers.dev"
+        },
+        "page": {
+          "url": "relay-shou.3wingsandchips.workers.dev"
+        }
+      },
+      "task": {
+        "visibility": "public",
+        "method": "api",
+        "domain": "relay-shou.3wingsandchips.workers.dev",
+        "apexDomain": "3wingsandchips.workers.dev",
+        "time": "2026-11-13T21:22:28.959Z",
+        "uuid": "01a1d6ca-4a7f-719b-a5a8-42b538edfc4f",
+        "url": "http://relay-shou.3wingsandchips.workers.dev/"
+      },
+      "stats": {
+        "uniqIPs": 2,
+        "uniqCountries": 1,
+        "dataLength": 191993,
+        "encodedDataLength": 184078,
+        "requests": 1
+      },
+      "page": {
+        "server": "cloudflare",
+        "redirected": "https-only",
+        "ip": "2606:4700:3035::ac43:d694",
+        "apexDomainAgeDays": 0,
+        "language": "de",
+        "mimeType": "text/plain",
+        "title": "relay-shou.3wingsandchips.workers.dev",
+        "url": "https://relay-shou.3wingsandchips.workers.dev/",
+        "tlsValidDays": 89,
+        "tlsAgeDays": 11,
+        "domainAgeDays": 0,
+        "tlsValidFrom": "2026-11-01T22:35:52.000Z",
+        "domain": "relay-shou.3wingsandchips.workers.dev",
+        "apexDomain": "3wingsandchips.workers.dev",
+        "asnname": "CLOUDFLARENET - Cloudflare, Inc., US",
+        "asn": "AS13335",
+        "tlsIssuer": "YE1",
+        "status": "404"
+      },
+      "labels": [],
+      "_id": "01a1d6ca-4a7f-719b-a5a8-42b538edfc4f",
+      "_score": null,
+      "sort": [
+        1794604948959,
+        "01a1d6ca-4a7f-719b-a5a8-42b538edfc4f"
+      ],
+      "result": "https://urlscan.io/api/v1/result/01a1d6ca-4a7f-719b-a5a8-42b538edfc4f/",
+      "screenshot": "https://urlscan.io/screenshots/01a1d6ca-4a7f-719b-a5a8-42b538edfc4f.png"
+    }
+  ],
+  "total": 2,
+  "took": 10,
+  "has_more": false,
+  "search_date_limit_days": 30
+}

@@ -1,0 +1,79 @@
+{
+  "name": "aww_entry_goh_full__android_tiktok_uk",
+  "request_profile": "android_tiktok_uk",
+  "request_payload": {
+    "entryURL": "https://8sebgr-sx.myshopify.com/pages/goh?ttclid=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&px=p2&utm_source=tiktok&utm_medium=cpc&utm_campaign=Lead+generation20261123125542&utm_content=7711354016529285127_Ad+name2026-11-23+02:05:19&s1=1882654792241361",
+    "requestId": "5b1b23f9-d7d0-4d7d-8037-a99c7c0441b8"
+  },
+  "response_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/aww_entry_goh_full__android_tiktok_uk.json",
+  "url": "https://aww-funnel.3wingsandchips.workers.dev/shopify-entry",
+  "method": "POST",
+  "status": 200,
+  "headers": [
+    [
+      "Date",
+      "Thu, 26 Nov 2026 22:54:21 GMT"
+    ],
+    [
+      "Content-Type",
+      "application/json"
+    ],
+    [
+      "Transfer-Encoding",
+      "chunked"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "Access-Control-Allow-Origin",
+      "https://8sebgr-sx.myshopify.com"
+    ],
+    [
+      "Cache-Control",
+      "no-store"
+    ],
+    [
+      "Vary",
+      "Origin"
+    ],
+    [
+      "Access-Control-Allow-Headers",
+      "content-type"
+    ],
+    [
+      "Access-Control-Allow-Methods",
+      "POST, OPTIONS"
+    ],
+    [
+      "Referrer-Policy",
+      "no-referrer"
+    ],
+    [
+      "Report-To",
+      "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Cf0iTaVrKG5zpT0nktL9fSW0HXJ8jCOwjdum3wfJp43KXspD1%2FFKjdDHqy6eF9VCNSfU5FgArzGuAYPQfQHo2EPwKWlBTgkeplhkWrIQRDPzxYAHyqkNrGi%2BEJ8JxO51iREsYoduoIV%2B6TeXf03AMFptZcv2sEG3\"}]}"
+    ],
+    [
+      "Nel",
+      "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+    ],
+    [
+      "Content-Encoding",
+      "gzip"
+    ],
+    [
+      "Server",
+      "cloudflare"
+    ],
+    [
+      "CF-RAY",
+      "a60c797adecf1ddf-LHR"
+    ],
+    [
+      "alt-svc",
+      "h3=\":443\"; ma=86400"
+    ]
+  ],
+  "body_len": 5149
+}

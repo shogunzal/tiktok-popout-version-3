@@ -1,0 +1,1939 @@
+{
+  "visit_ios_tiktok_uk": [
+    {
+      "hop": 0,
+      "url": "https://aww-funnel.3wingsandchips.workers.dev/visit?slot=0&sub2=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&ttclid=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&px=p2&bh_dwell=4500&bh_scroll=50&bh_taps=3&bh_force=0&bh_ptype=touch",
+      "status": 302,
+      "elapsed_sec": 0.262,
+      "location": "https://linkthem.net/?offer_id=5084&aff_id=201951&s3=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:09 GMT"
+        ],
+        [
+          "Content-Length",
+          "0"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Location",
+          "https://linkthem.net/?offer_id=5084&aff_id=201951&s3=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=1nf1K4XJVdnnY5K%2B1KKYhHCQswu5hxpIdRh8frt%2Fm%2B%2F%2BXacOeOH43EAvqIyWcOuVRweNO8ftH%2FpVwHPIqovDNCt8shdby7JF%2FjCTPftyeykOcEmfXbEoLVGLQp%2Bkbh5PMhcX%2FBpYL05xeBzSLOfVdYTRhfGzqwnf\"}]}"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "CF-RAY",
+          "a60c7d8ecdeee8b4-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 0,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_ios_tiktok_uk_hop0.txt"
+    },
+    {
+      "hop": 1,
+      "url": "https://linkthem.net/?offer_id=5084&aff_id=201951&s3=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA",
+      "status": 302,
+      "elapsed_sec": 0.113,
+      "location": "https://go.linkthem.net/aff_c?offer_id=5084&aff_id=201951&aff_click_id=gt_04_01a21a13b667c013c1a993a8",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:09 GMT"
+        ],
+        [
+          "Content-Length",
+          "0"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Location",
+          "https://go.linkthem.net/aff_c?offer_id=5084&aff_id=201951&aff_click_id=gt_04_01a21a13b667c013c1a993a8"
+        ],
+        [
+          "Access-Control-Allow-Origin",
+          "*"
+        ],
+        [
+          "Cache-Control",
+          "no-cache, no-store, must-revalidate"
+        ],
+        [
+          "Expires",
+          "Sat, 26 Jul 1997 05:00:00 GMT"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "Pragma",
+          "no-cache"
+        ],
+        [
+          "Accept-CH",
+          "Sec-CH-UA-Platform-Version, Sec-CH-UA-Model"
+        ],
+        [
+          "X-Content-Type-Options",
+          "nosniff"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=PeakSQGeCPv37z3uME7v0bVURGqa9XgcLzQ3DdP7ogCatNbfRbELg2q1OuD4AI04XQs0ke8VgO%2FDBWHcikAbsQqS9ADev8YmypaCo7TRaR3fsM6TSrrYuJIIDxx%2BzkE%3D\"}]}"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "CF-RAY",
+          "a60c7d905f199df1-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 0,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_ios_tiktok_uk_hop1.txt"
+    },
+    {
+      "hop": 2,
+      "url": "https://go.linkthem.net/aff_c?offer_id=5084&aff_id=201951&aff_click_id=gt_04_01a21a13b667c013c1a993a8",
+      "status": 302,
+      "elapsed_sec": 0.143,
+      "location": "https://freecash.com?utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&click_id=1024d43bd9c30795fb4d90a4c43464&sub1=201951&sub2=&sub4=",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:09 GMT"
+        ],
+        [
+          "Content-Type",
+          "text/html; charset=iso-8859-1"
+        ],
+        [
+          "Transfer-Encoding",
+          "chunked"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "Cache-Control",
+          "no-cache, no-store, must-revalidate"
+        ],
+        [
+          "Expires",
+          "Sat, 26 Jul 1997 05:00:00 GMT"
+        ],
+        [
+          "Location",
+          "https://freecash.com?utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&click_id=1024d43bd9c30795fb4d90a4c43464&sub1=201951&sub2=&sub4="
+        ],
+        [
+          "P3p",
+          "CP=\"NOI CUR OUR NOR INT\""
+        ],
+        [
+          "Pragma",
+          "no-cache"
+        ],
+        [
+          "Set-Cookie",
+          "enc_aff_session_5084=ENC038a0c86b1647d849ae53338c1a67fed5a69d63803268622af3277c7fcd2b0bdfa8bc17bbb6b790cf076470db25d481a862306dde8e81b532fbab8679cad8edd50beccb4fc3ba218c26001c965a82d2d3284f72bbaace5d3bade7fe6438d80416ba49c744ab1e71eca7ff689d49b6cf7ebe2c608b5f8afb592289fcdd2e87a98a7cfcf22f9124edbd41c34981b89fda4101c80bfa6bad071f7d5e7d10db5a947607c4fc5da7daa3625171b99671f22273f1cf955217d7acfcc913f1b2c8216e3f80b8247fb; expires=Sat, 26 Dec 2026 22:57:09 GMT; path=/; SameSite=None; Secure"
+        ],
+        [
+          "Set-Cookie",
+          "ho_mob=eyJtb2JpbGVfZGV2aWNlX29zIjoiaU9TIiwibW9iaWxlX29zX3ZlcnNpb24iOiIxOC4xIiwibW9iaWxlX2RldmljZV9tb2RlbCI6ImlQaG9uZSIsIm1vYmlsZV9kZXZpY2VfYnJhbmQiOiJBcHBsZSIsIm1vYmlsZV9icm93c2VyIjoiU2FmYXJpIiwibW9iaWxlX2Jyb3dzZXJfdmVyc2lvbiI6IjE4LjAiLCJtb2JpbGVfY2FycmllciI6Ij8iLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIElQaG9uZSBPUyAxOF8xIExpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgTGlrZSBHZWNrbykgTW9iaWxlLzIyQjgzIEJ5dGVkYW5jZVdlYnZpZXcvZDhhMjFjNiBNdXNpY2FsX2x5XzM3LjIuMCBKc1Nkay8yLjAgTmV0VHlwZS9XSUZJIENoYW5uZWwvQXBwIFN0b3JlIEJ5dGVMb2NhbGUvZW4tR0IgUmVnaW9uL0dCIFJldmVhbFR5cGUvRGlhbG9nIElzRGFya01vZGUvMCBXS1dlYlZpZXcvMSIsImFjY2VwdF9sYW5ndWFnZSI6ImVuLUdCLGVuO3E9MC45IiwiY29ubmVjdGlvbl9zcGVlZCI6ImJyb2FkYmFuZCJ9; expires=Sun, 21 Oct 2029 09:37:09 GMT; path=/; SameSite=None; Secure"
+        ],
+        [
+          "Tracking_id",
+          "1024d43bd9c30795fb4d90a4c43464"
+        ],
+        [
+          "X-Robots-Tag",
+          "noindex, nofollow"
+        ],
+        [
+          "Access-Control-Allow-Origin",
+          "*"
+        ],
+        [
+          "Access-Control-Allow-Headers",
+          "Tune-SDK-Version"
+        ],
+        [
+          "Accept-Ch",
+          "Sec-Ch-Dpr, Dpr, Sec-Ch-Ua-Model"
+        ],
+        [
+          "X-Request-Id",
+          "76f1814f883ac1264ad08e2fce5c9f49"
+        ],
+        [
+          "cf-cache-status",
+          "DYNAMIC"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=0Y62%2B%2BpO7QXhT%2BbJCQh%2BfJ6QeL2GkzI1HrKgR2De9Gg40coNW0tynm7Xh5HgmM9dTEsHjepgXuwfeZPhbBZSDnZjueYff2nKO%2BiEMXsxpci0r5ot0f4qzyz55Qi6THgy%2B8Q%3D\"}]}"
+        ],
+        [
+          "CF-RAY",
+          "a60c7d910ba46323-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 384,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_ios_tiktok_uk_hop2.html"
+    },
+    {
+      "hop": 3,
+      "url": "https://freecash.com?utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&click_id=1024d43bd9c30795fb4d90a4c43464&sub1=201951&sub2=&sub4=",
+      "status": 302,
+      "elapsed_sec": 0.207,
+      "location": "https://freecash.go.link/?adj_t=1tx4w2qo_1uyf6g9q&adj_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&adj_adgroup=fc-app&adj_label=source%3Aglitchy%7Cclick_id%3A1024d43bd9c30795fb4d90a4c43464%7Csub1%3A201951%7Csub2%3A%7Csub4%3Atiktok",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:09 GMT"
+        ],
+        [
+          "Content-Type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "Transfer-Encoding",
+          "chunked"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "Set-Cookie",
+          "fc_pool=k8s; Path=/; Max-Age=604800; Secure; SameSite=Lax"
+        ],
+        [
+          "set-cookie",
+          "__cflb=02DiuDkJGQKBDqZ5x5gczLvTh2w8wja16m7tHqqEsWfgG; HttpOnly; SameSite=None; Secure; Path=/; Expires=Fri, 27 Nov 2026 22:57:09 GMT"
+        ],
+        [
+          "x-fc-release",
+          "1.1624.0"
+        ],
+        [
+          "x-powered-by",
+          "Express"
+        ],
+        [
+          "vary",
+          "Origin, Accept"
+        ],
+        [
+          "access-control-allow-credentials",
+          "true"
+        ],
+        [
+          "location",
+          "https://freecash.go.link/?adj_t=1tx4w2qo_1uyf6g9q&adj_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&adj_adgroup=fc-app&adj_label=source%3Aglitchy%7Cclick_id%3A1024d43bd9c30795fb4d90a4c43464%7Csub1%3A201951%7Csub2%3A%7Csub4%3Atiktok"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "28"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "cf-cache-status",
+          "DYNAMIC"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=US1UdoVpWDJxooSfkkZ9pm7ApY9FcrfNfOeNd4lNbiC7eXQJT5e0mUOs917Ld4Z1Djk%2FY%2FJuIRgQC6Ne5udnhmlHV4wyJPjgQdi3bhpt6I89eHzABFWMqDbWOf3Kpw%3D%3D\"}]}"
+        ],
+        [
+          "CF-RAY",
+          "a60c7d91ed853771-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 280,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_ios_tiktok_uk_hop3.html"
+    },
+    {
+      "hop": 4,
+      "url": "https://freecash.go.link/?adj_t=1tx4w2qo_1uyf6g9q&adj_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&adj_adgroup=fc-app&adj_label=source%3Aglitchy%7Cclick_id%3A1024d43bd9c30795fb4d90a4c43464%7Csub1%3A201951%7Csub2%3A%7Csub4%3Atiktok",
+      "status": 200,
+      "elapsed_sec": 2.398,
+      "location": "",
+      "headers": [
+        [
+          "set-cookie",
+          "3385c1d11b45da748acbf6cc859f527b=cNay1IZh4nEQY; Path=/; Domain=adjust.com; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "3385c1d11b45da748acbf6cc859f527b=cNay1IZh4nEQY; Path=/; Domain=adjust.io; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "3385c1d11b45da748acbf6cc859f527b=cNay1IZh4nEQY; Path=/; Domain=adj.st; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "3385c1d11b45da748acbf6cc859f527b=cNay1IZh4nEQY; Path=/; Domain=go.link; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "3385c1d11b45da748acbf6cc859f527b=cNay1IZh4nEQY; Path=/; Domain=adjust.net.in; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "3385c1d11b45da748acbf6cc859f527b=cNay1IZh4nEQY; Path=/; Domain=adjust.world; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "3385c1d11b45da748acbf6cc859f527b=cNay1IZh4nEQY; Path=/; Domain=adjust.cn; Max-Age=2"
+        ],
+        [
+          "date",
+          "Thu, 26 Nov 2026 22:57:11 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ],
+        [
+          "strict-transport-security",
+          "max-age=31536000; includeSubDomains; preload"
+        ],
+        [
+          "x-frame-options",
+          "SAMEORIGIN"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "x-robots-tag",
+          "noindex"
+        ],
+        [
+          "connection",
+          "close"
+        ]
+      ],
+      "body_len": 11400,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_ios_tiktok_uk_hop4.html"
+    }
+  ],
+  "visit_android_tiktok_uk": [
+    {
+      "hop": 0,
+      "url": "https://aww-funnel.3wingsandchips.workers.dev/visit?slot=0&sub2=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&ttclid=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&px=p2&bh_dwell=4500&bh_scroll=50&bh_taps=3&bh_force=0&bh_ptype=touch",
+      "status": 302,
+      "elapsed_sec": 0.184,
+      "location": "https://linkthem.net/?offer_id=5084&aff_id=201951&s3=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:12 GMT"
+        ],
+        [
+          "Content-Length",
+          "0"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Location",
+          "https://linkthem.net/?offer_id=5084&aff_id=201951&s3=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=VCM%2BOB4pPDe3N1FNLcX4uzbUVcQKdiC393P4lPKRsLxx97dC7DU%2BfBPjz8dVJQpPZ16co74qZWXkyYYvAGDapmt49Ef8voLx0IjgjTQ%2BXvA4Dg961Tw6hialC4Hdpo8E36fLmM%2FAYKWZTphONDGQPm3R8SXAAH7z\"}]}"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "CF-RAY",
+          "a60c7da22f6ee902-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 0,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_android_tiktok_uk_hop0.txt"
+    },
+    {
+      "hop": 1,
+      "url": "https://linkthem.net/?offer_id=5084&aff_id=201951&s3=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA",
+      "status": 302,
+      "elapsed_sec": 0.07,
+      "location": "https://go.linkthem.net/aff_c?offer_id=5084&aff_id=201951&aff_click_id=gt_04_01a21a13c22345fd82ca8206",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:12 GMT"
+        ],
+        [
+          "Content-Length",
+          "0"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Location",
+          "https://go.linkthem.net/aff_c?offer_id=5084&aff_id=201951&aff_click_id=gt_04_01a21a13c22345fd82ca8206"
+        ],
+        [
+          "Access-Control-Allow-Origin",
+          "*"
+        ],
+        [
+          "Cache-Control",
+          "no-cache, no-store, must-revalidate"
+        ],
+        [
+          "Expires",
+          "Sat, 26 Jul 1997 05:00:00 GMT"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "Pragma",
+          "no-cache"
+        ],
+        [
+          "Accept-CH",
+          "Sec-CH-UA-Platform-Version, Sec-CH-UA-Model"
+        ],
+        [
+          "X-Content-Type-Options",
+          "nosniff"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ZkNSukrb6LR8RGaJSNVH2d1N5TodoCGuG47rG7woHq%2F%2BmOHWo3y8v875jbAwjbchipUsz%2FDIMxqSNsV%2BGU9Tfzdmk5RkcompZyN2Fz9uDNmli1E2PN8z0J0d%2BKvBJ7w%3D\"}]}"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "CF-RAY",
+          "a60c7da34da3ea68-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 0,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_android_tiktok_uk_hop1.txt"
+    },
+    {
+      "hop": 2,
+      "url": "https://go.linkthem.net/aff_c?offer_id=5084&aff_id=201951&aff_click_id=gt_04_01a21a13c22345fd82ca8206",
+      "status": 302,
+      "elapsed_sec": 0.1,
+      "location": "https://freecash.com?utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&click_id=1021301b80de715b3f6f5e34461d0c&sub1=201951&sub2=&sub4=",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:12 GMT"
+        ],
+        [
+          "Content-Type",
+          "text/html; charset=iso-8859-1"
+        ],
+        [
+          "Transfer-Encoding",
+          "chunked"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "Cache-Control",
+          "no-cache, no-store, must-revalidate"
+        ],
+        [
+          "Expires",
+          "Sat, 26 Jul 1997 05:00:00 GMT"
+        ],
+        [
+          "Location",
+          "https://freecash.com?utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&click_id=1021301b80de715b3f6f5e34461d0c&sub1=201951&sub2=&sub4="
+        ],
+        [
+          "P3p",
+          "CP=\"NOI CUR OUR NOR INT\""
+        ],
+        [
+          "Pragma",
+          "no-cache"
+        ],
+        [
+          "Set-Cookie",
+          "enc_aff_session_5084=ENC03c0914642254978b5c62436e0787b170b46dd248b4f16dc516a801d703e861d55865dc959b066283493715b39034fefdd5fc3624a4580e97d727d304c5284531d82034add08ff1d1dbbf8a4a883bff74e0edc44b8e9aa736af542c0714db3d70efd9eaec802cdb1e8c3102166da93290aaeeec2417f3dcdb5bac01b3c79c9ca7719394c4f839bb7224f4f99052af4af6c2d18d2d55ccfa7b1ae56416037d2d00e948c8d60c923854f58a74423bf6f59e86c2d727bd221f2bc019503d01a57520717a5a1ca; expires=Sat, 26 Dec 2026 22:57:12 GMT; path=/; SameSite=None; Secure"
+        ],
+        [
+          "Set-Cookie",
+          "ho_mob=eyJtb2JpbGVfZGV2aWNlX29zIjoiQW5kcm9pZCIsIm1vYmlsZV9vc192ZXJzaW9uIjoiMTQuMCIsIm1vYmlsZV9kZXZpY2VfbW9kZWwiOiJQaXhlbCA4IiwibW9iaWxlX2RldmljZV9icmFuZCI6Ikdvb2dsZSIsIm1vYmlsZV9icm93c2VyIjoiQ2hyb21lIE1vYmlsZSIsIm1vYmlsZV9jYXJyaWVyIjoiPyIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTQ7IFBpeGVsIDggQnVpbGQvQVAyQS4yNDA4MDUuMDA1OyBXdikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgTGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzEyOC4wLjY2MTMuMTI3IE1vYmlsZSBTYWZhcmkvNTM3LjM2IEJ5dGVkYW5jZVdlYnZpZXcvZDhhMjFjNiBNdXNpY2FsX2x5XzIwMjM3MDIwNDAgSnNTZGsvMS4wIE5ldFR5cGUvV0lGSSBDaGFubmVsL2dvb2dsZXBsYXkgQXBwTmFtZS9tdXNpY2FsX2x5IEFwcF92ZXJzaW9uLzM3LjIuNCBCeXRlTG9jYWxlL2VuLUdCIEJ5dGVGdWxsTG9jYWxlL2VuLUdCIFJlZ2lvbi9HQiIsImFjY2VwdF9sYW5ndWFnZSI6ImVuLUdCLGVuO3E9MC45IiwiY29ubmVjdGlvbl9zcGVlZCI6ImJyb2FkYmFuZCJ9; expires=Sun, 21 Oct 2029 09:37:12 GMT; path=/; SameSite=None; Secure"
+        ],
+        [
+          "Tracking_id",
+          "1021301b80de715b3f6f5e34461d0c"
+        ],
+        [
+          "X-Robots-Tag",
+          "noindex, nofollow"
+        ],
+        [
+          "Access-Control-Allow-Origin",
+          "*"
+        ],
+        [
+          "Access-Control-Allow-Headers",
+          "Tune-SDK-Version"
+        ],
+        [
+          "Accept-Ch",
+          "Sec-Ch-Dpr, Dpr, Sec-Ch-Ua-Model"
+        ],
+        [
+          "X-Request-Id",
+          "910214570250445cf3ac60077fecf305"
+        ],
+        [
+          "cf-cache-status",
+          "DYNAMIC"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=fE%2BVRTcqmhEnqcbwEKIp0ero783TtmJO%2Bwr0DbsnZeH6NgzhiH1zoAzkPl49TQCcHYSVQ8qZZoUn2cEWprGq7tDtB%2B2fbm%2FXlOD9ayWJlPmIlEMuSrNxpbTt1fLFix1n8ow%3D\"}]}"
+        ],
+        [
+          "CF-RAY",
+          "a60c7da3b96d57a1-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 384,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_android_tiktok_uk_hop2.html"
+    },
+    {
+      "hop": 3,
+      "url": "https://freecash.com?utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&click_id=1021301b80de715b3f6f5e34461d0c&sub1=201951&sub2=&sub4=",
+      "status": 302,
+      "elapsed_sec": 0.164,
+      "location": "https://freecash.go.link/?adj_t=1tx4w2qo_1uyf6g9q&adj_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&adj_adgroup=fc-app&adj_label=source%3Aglitchy%7Cclick_id%3A1021301b80de715b3f6f5e34461d0c%7Csub1%3A201951%7Csub2%3A%7Csub4%3Atiktok",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:12 GMT"
+        ],
+        [
+          "Content-Type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "Transfer-Encoding",
+          "chunked"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "Set-Cookie",
+          "fc_pool=k8s; Path=/; Max-Age=604800; Secure; SameSite=Lax"
+        ],
+        [
+          "set-cookie",
+          "__cflb=02DiuDkJGQKBDqZ5x5gczLvTh2w8wja16oLLrSXBkKf9W; HttpOnly; SameSite=None; Secure; Path=/; Expires=Fri, 27 Nov 2026 22:57:12 GMT"
+        ],
+        [
+          "x-fc-release",
+          "1.1624.0"
+        ],
+        [
+          "x-powered-by",
+          "Express"
+        ],
+        [
+          "vary",
+          "Origin, Accept"
+        ],
+        [
+          "access-control-allow-credentials",
+          "true"
+        ],
+        [
+          "location",
+          "https://freecash.go.link/?adj_t=1tx4w2qo_1uyf6g9q&adj_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&adj_adgroup=fc-app&adj_label=source%3Aglitchy%7Cclick_id%3A1021301b80de715b3f6f5e34461d0c%7Csub1%3A201951%7Csub2%3A%7Csub4%3Atiktok"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "26"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "cf-cache-status",
+          "DYNAMIC"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=x3lOnDGjdgLCtRFCEzVWJi3JJFk0A2o71Si3vqC7t9bBr0A7z2QLW1A%2F9f54Zsu%2Bnk2ec1uZJKz3UvTwC%2B1OESxgxnLIHvbivxczwmyLZ3MWIX019TtkQbuaG4POLQ%3D%3D\"}]}"
+        ],
+        [
+          "CF-RAY",
+          "a60c7da4599befef-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 280,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_android_tiktok_uk_hop3.html"
+    },
+    {
+      "hop": 4,
+      "url": "https://freecash.go.link/?adj_t=1tx4w2qo_1uyf6g9q&adj_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&adj_adgroup=fc-app&adj_label=source%3Aglitchy%7Cclick_id%3A1021301b80de715b3f6f5e34461d0c%7Csub1%3A201951%7Csub2%3A%7Csub4%3Atiktok",
+      "status": 302,
+      "elapsed_sec": 0.363,
+      "location": "intent://?adj_t=1tx4w2qo_1uyf6g9q&adj_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&adj_adgroup=fc-app&adj_label=source%3Aglitchy%7Cclick_id%3A1021301b80de715b3f6f5e34461d0c%7Csub1%3A201951%7Csub2%3A%7Csub4%3Atiktok&adjust_reftag=cUhPvJZHD9pSJ#Intent;scheme=freecash;package=com.freecash.app2;S.market_referrer=adjust_reftag%3DcUhPvJZHD9pSJ;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.freecash.app2%26referrer%3Dadjust_reftag%253DcUhPvJZHD9pSJ;end",
+      "headers": [
+        [
+          "accept-ch",
+          "Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UAm, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "location",
+          "intent://?adj_t=1tx4w2qo_1uyf6g9q&adj_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&adj_adgroup=fc-app&adj_label=source%3Aglitchy%7Cclick_id%3A1021301b80de715b3f6f5e34461d0c%7Csub1%3A201951%7Csub2%3A%7Csub4%3Atiktok&adjust_reftag=cUhPvJZHD9pSJ#Intent;scheme=freecash;package=com.freecash.app2;S.market_referrer=adjust_reftag%3DcUhPvJZHD9pSJ;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.freecash.app2%26referrer%3Dadjust_reftag%253DcUhPvJZHD9pSJ;end"
+        ],
+        [
+          "set-cookie",
+          "0ebec782a0bde6a9c13d8dfc2b0b2514=cUhPvJZHD9pSJ; Path=/; Domain=adjust.com; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "0ebec782a0bde6a9c13d8dfc2b0b2514=cUhPvJZHD9pSJ; Path=/; Domain=adjust.io; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "0ebec782a0bde6a9c13d8dfc2b0b2514=cUhPvJZHD9pSJ; Path=/; Domain=adj.st; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "0ebec782a0bde6a9c13d8dfc2b0b2514=cUhPvJZHD9pSJ; Path=/; Domain=go.link; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "0ebec782a0bde6a9c13d8dfc2b0b2514=cUhPvJZHD9pSJ; Path=/; Domain=adjust.net.in; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "0ebec782a0bde6a9c13d8dfc2b0b2514=cUhPvJZHD9pSJ; Path=/; Domain=adjust.world; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "0ebec782a0bde6a9c13d8dfc2b0b2514=cUhPvJZHD9pSJ; Path=/; Domain=adjust.cn; Max-Age=2"
+        ],
+        [
+          "date",
+          "Thu, 26 Nov 2026 22:57:12 GMT"
+        ],
+        [
+          "content-length",
+          "539"
+        ],
+        [
+          "strict-transport-security",
+          "max-age=31536000; includeSubDomains; preload"
+        ],
+        [
+          "x-frame-options",
+          "SAMEORIGIN"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "x-robots-tag",
+          "noindex"
+        ],
+        [
+          "connection",
+          "close"
+        ]
+      ],
+      "body_len": 539,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_android_tiktok_uk_hop4.html"
+    },
+    {
+      "hop": 5,
+      "url": "intent://?adj_t=1tx4w2qo_1uyf6g9q&adj_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&adj_adgroup=fc-app&adj_label=source%3Aglitchy%7Cclick_id%3A1021301b80de715b3f6f5e34461d0c%7Csub1%3A201951%7Csub2%3A%7Csub4%3Atiktok&adjust_reftag=cUhPvJZHD9pSJ#Intent;scheme=freecash;package=com.freecash.app2;S.market_referrer=adjust_reftag%3DcUhPvJZHD9pSJ;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.freecash.app2%26referrer%3Dadjust_reftag%253DcUhPvJZHD9pSJ;end",
+      "note": "non-http redirect scheme"
+    }
+  ],
+  "visit_desktop_chrome": [
+    {
+      "hop": 0,
+      "url": "https://aww-funnel.3wingsandchips.workers.dev/visit?slot=0&sub2=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&ttclid=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&px=p2&bh_dwell=4500&bh_scroll=50&bh_taps=3&bh_force=0&bh_ptype=touch",
+      "status": 302,
+      "elapsed_sec": 0.176,
+      "location": "https://linkthem.net/?offer_id=5084&aff_id=201951&s3=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:13 GMT"
+        ],
+        [
+          "Content-Length",
+          "0"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Location",
+          "https://linkthem.net/?offer_id=5084&aff_id=201951&s3=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=0gS3vuw1shdk4WeR2EzWjAG4A0PdttjKUTnUisuaDQVW%2BIdd2ugUG5ohKfYgeoLK3OL%2B%2BuxT1b6JJdiXdTN%2BIj2pvN5yHGryFPojOeF7EItibfIoyjHwHyMZKXwJ%2FBvlHZ6FRG0nbXJE142C7cyGi5RMCA58diHH\"}]}"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "CF-RAY",
+          "a60c7da7bf62001e-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 0,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_desktop_chrome_hop0.txt"
+    },
+    {
+      "hop": 1,
+      "url": "https://linkthem.net/?offer_id=5084&aff_id=201951&s3=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA",
+      "status": 302,
+      "elapsed_sec": 0.059,
+      "location": "https://go.linkthem.net/aff_c?offer_id=5084&aff_id=201951&aff_click_id=gt_04_01a21a13c58210ef09a261c1",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:13 GMT"
+        ],
+        [
+          "Content-Length",
+          "0"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Location",
+          "https://go.linkthem.net/aff_c?offer_id=5084&aff_id=201951&aff_click_id=gt_04_01a21a13c58210ef09a261c1"
+        ],
+        [
+          "Access-Control-Allow-Origin",
+          "*"
+        ],
+        [
+          "Cache-Control",
+          "no-cache, no-store, must-revalidate"
+        ],
+        [
+          "Expires",
+          "Sat, 26 Jul 1997 05:00:00 GMT"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "Pragma",
+          "no-cache"
+        ],
+        [
+          "Accept-CH",
+          "Sec-CH-UA-Platform-Version, Sec-CH-UA-Model"
+        ],
+        [
+          "X-Content-Type-Options",
+          "nosniff"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=la3yH7FamG9%2BKX1LF1vHMClM%2BQizLL%2BgQvkdvtDIn6tzKInit4L9rImFjC9kPBrGtrUJ6lAXQMvhcE0HqX8BieHWJZh4yKO5rlntKRUbjxtv%2BRmm8KJGFFDW312jMR0%3D\"}]}"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "CF-RAY",
+          "a60c7da8b9d79383-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 0,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_desktop_chrome_hop1.txt"
+    },
+    {
+      "hop": 2,
+      "url": "https://go.linkthem.net/aff_c?offer_id=5084&aff_id=201951&aff_click_id=gt_04_01a21a13c58210ef09a261c1",
+      "status": 302,
+      "elapsed_sec": 0.109,
+      "location": "https://freecash.com?utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&click_id=1027e7940a59ca9fd08c6fb21adfae&sub1=201951&sub2=&sub4=",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:13 GMT"
+        ],
+        [
+          "Content-Type",
+          "text/html; charset=iso-8859-1"
+        ],
+        [
+          "Transfer-Encoding",
+          "chunked"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "Cache-Control",
+          "no-cache, no-store, must-revalidate"
+        ],
+        [
+          "Expires",
+          "Sat, 26 Jul 1997 05:00:00 GMT"
+        ],
+        [
+          "Location",
+          "https://freecash.com?utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&click_id=1027e7940a59ca9fd08c6fb21adfae&sub1=201951&sub2=&sub4="
+        ],
+        [
+          "P3p",
+          "CP=\"NOI CUR OUR NOR INT\""
+        ],
+        [
+          "Pragma",
+          "no-cache"
+        ],
+        [
+          "Set-Cookie",
+          "enc_aff_session_5084=ENC030746bc68245e8f42f18b6eb75b25aaeae82e568f906a7dc639d3f7bff6301f3ccfe89ead1e0ec68c5d135500ee1c7ce3b9e8d54137bcca650ab68ef1e039d620180c7f1a38c7c4f4aed27ad58cd303f1cba57a4d1c442f98004fdc648b471628cc4a454facf9cedd55fd4cf8bda349f8b0b1636976a20f6d0cb0f67f30ee516a0a36362686692f7ffedc22c1c04c51f5e8999559814813f4769f9bc35f2a4161d2146bdd9fd719080b0a2e55bb5ad58c1a6d3b5b98e11d6ae633758df06bf771058ff92b; expires=Sat, 26 Dec 2026 22:57:13 GMT; path=/; SameSite=None; Secure"
+        ],
+        [
+          "Set-Cookie",
+          "ho_mob=eyJtb2JpbGVfZGV2aWNlX29zIjoiRGVza3RvcCIsIm1vYmlsZV9vc192ZXJzaW9uIjoiMCIsIm1vYmlsZV9kZXZpY2VfbW9kZWwiOiJDaHJvbWUiLCJtb2JpbGVfZGV2aWNlX2JyYW5kIjoiR29vZ2xlIiwibW9iaWxlX2Jyb3dzZXIiOiJDaHJvbWUgRGVza3RvcCIsIm1vYmlsZV9icm93c2VyX3ZlcnNpb24iOiIxMzEiLCJtb2JpbGVfY2FycmllciI6Ij8iLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgTGlrZSBHZWNrbykgQ2hyb21lLzEzMS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiYWNjZXB0X2xhbmd1YWdlIjoiZW4tVVMsZW47cT0wLjkiLCJjb25uZWN0aW9uX3NwZWVkIjoiYnJvYWRiYW5kIn0=; expires=Sun, 21 Oct 2029 09:37:13 GMT; path=/; SameSite=None; Secure"
+        ],
+        [
+          "Tracking_id",
+          "1027e7940a59ca9fd08c6fb21adfae"
+        ],
+        [
+          "X-Robots-Tag",
+          "noindex, nofollow"
+        ],
+        [
+          "Access-Control-Allow-Origin",
+          "*"
+        ],
+        [
+          "Access-Control-Allow-Headers",
+          "Tune-SDK-Version"
+        ],
+        [
+          "Accept-Ch",
+          "Sec-Ch-Dpr, Dpr, Sec-Ch-Ua-Model"
+        ],
+        [
+          "X-Request-Id",
+          "03ee46f332c08a2f2b528582611f727e"
+        ],
+        [
+          "cf-cache-status",
+          "DYNAMIC"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=v5i6s2R0gHlxOxKTERXDw5DuAfxTc%2FpJP3N8aW%2BPTfXtLve6m5ogtRQTCHM22sEtNEEEPb2%2F1SQMwOAfYNGsvxI7z262M6uawJ6Tt%2BMrEe1%2FqwfiAnKjNqZVioHDJMpxrKs%3D\"}]}"
+        ],
+        [
+          "CF-RAY",
+          "a60c7da91e097773-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 384,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_desktop_chrome_hop2.html"
+    },
+    {
+      "hop": 3,
+      "url": "https://freecash.com?utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&click_id=1027e7940a59ca9fd08c6fb21adfae&sub1=201951&sub2=&sub4=",
+      "status": 302,
+      "elapsed_sec": 0.293,
+      "location": "/en?utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&click_id=1027e7940a59ca9fd08c6fb21adfae&sub1=201951&sub2=&sub4=",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:13 GMT"
+        ],
+        [
+          "Transfer-Encoding",
+          "chunked"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "set-cookie",
+          "fc_access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImR5VjczS3BlUmY4dTdaUFU2Wm1YK3c9PSJ9.eyJ0b2tlblVzZSI6ImFjY2VzcyIsImlhdCI6MTc5NTczMzgzMywiZXhwIjoxNzk1NzM3NDMzLCJhdWQiOiJub25lIiwianRpIjoiODdjMDU0ZmEtYjc5Yy00ODRmLWFmYWItNDcwMzQzNjcyZTczIn0.bQ_HkzLdXz5CwkKkdolnbpKQRS5B1U3KBWxOG2UGM6m-Wj7cBhlTNLp6UvYtvChuKk-k9Req3kFgE4diBZvodQ; Max-Age=3599; Path=/; Expires=Thu, 26 Nov 2026 23:57:13 GMT; HttpOnly; Secure; SameSite=Lax"
+        ],
+        [
+          "set-cookie",
+          "fc_refresh_token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImR5VjczS3BlUmY4dTdaUFU2Wm1YK3c9PSJ9.eyJ0b2tlblVzZSI6InJlZnJlc2giLCJpYXQiOjE3OTU3MzM4MzMsImV4cCI6MTgwMzUwOTgzMywiYXVkIjoibm9uZSIsImp0aSI6Ijg3YzA1NGZhLWI3OWMtNDg0Zi1hZmFiLTQ3MDM0MzY3MmU3MyJ9.jKvjzjAzky3l5siyXerdHe7-YDZYRLFn3Hp5Imm02O-f23gfdzukNAQKmjnJ2AbBNie5eCZGX1vpjRLOE34P1g; Max-Age=7775999; Path=/; Expires=Wed, 24 Feb 2027 22:57:13 GMT; HttpOnly; Secure; SameSite=Lax"
+        ],
+        [
+          "set-cookie",
+          "fc_device_id=87c054fa-b79c-484f-afab-470343672e73; Max-Age=34560000; Path=/; Expires=Fri, 31 Dec 2027 22:57:13 GMT; HttpOnly; Secure; SameSite=Lax"
+        ],
+        [
+          "set-cookie",
+          "site_visited=1; Path=/; Max-Age=3600; HttpOnly"
+        ],
+        [
+          "set-cookie",
+          "fc_req_dedup=utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&sub1=201951; Path=/; Max-Age=86400; HttpOnly; Secure; SameSite=Lax"
+        ],
+        [
+          "Set-Cookie",
+          "fc_pool=k8s; Path=/; Max-Age=604800; Secure; SameSite=Lax"
+        ],
+        [
+          "set-cookie",
+          "__cflb=02DiuDkJGQKBDqZ5x5gczLvTh2w8wja16p5ANe5qNbKdv; HttpOnly; SameSite=None; Secure; Path=/; Expires=Fri, 27 Nov 2026 22:57:13 GMT"
+        ],
+        [
+          "x-fc-release",
+          "1.1624.0"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "location",
+          "/en?utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&click_id=1027e7940a59ca9fd08c6fb21adfae&sub1=201951&sub2=&sub4="
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "151"
+        ],
+        [
+          "cf-cache-status",
+          "DYNAMIC"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=JGwNlrUhzQ%2FFpqJDkNhExK3CvSpRTeF9faoYcATlMWELrrVXoMjMPYi5kGX3PZ4JWtCsndt%2BpwY0Z41ewYndFaakFKOH4f%2BDtwGUzepT6MP6HTyNR4%2BpZKiUuxeBcA%3D%3D\"}]}"
+        ],
+        [
+          "CF-RAY",
+          "a60c7da9cd6e94d9-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 0,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_desktop_chrome_hop3.txt"
+    },
+    {
+      "hop": 4,
+      "url": "https://freecash.com/en?utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&click_id=1027e7940a59ca9fd08c6fb21adfae&sub1=201951&sub2=&sub4=",
+      "status": 200,
+      "elapsed_sec": 0.377,
+      "location": "",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:13 GMT"
+        ],
+        [
+          "Content-Type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "Transfer-Encoding",
+          "chunked"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "set-cookie",
+          "fc_access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImR5VjczS3BlUmY4dTdaUFU2Wm1YK3c9PSJ9.eyJ0b2tlblVzZSI6ImFjY2VzcyIsImlhdCI6MTc5NTczMzgzMywiZXhwIjoxNzk1NzM3NDMzLCJhdWQiOiJub25lIiwianRpIjoiY2ViMTBkMGQtMjNlZi00NDJmLWI4MzEtNDBjOTViYTBiOTg3In0.i489fWZyKKGYunZg63Hv1viBMZiJZEZ1L6HH79uoktSNttbihJL9mz5B6qMIEIGpWzkcdh9Lc8FAKdwtm-SihA; Max-Age=3599; Path=/; Expires=Thu, 26 Nov 2026 23:57:13 GMT; HttpOnly; Secure; SameSite=Lax"
+        ],
+        [
+          "set-cookie",
+          "fc_refresh_token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImR5VjczS3BlUmY4dTdaUFU2Wm1YK3c9PSJ9.eyJ0b2tlblVzZSI6InJlZnJlc2giLCJpYXQiOjE3OTU3MzM4MzMsImV4cCI6MTgwMzUwOTgzMywiYXVkIjoibm9uZSIsImp0aSI6ImNlYjEwZDBkLTIzZWYtNDQyZi1iODMxLTQwYzk1YmEwYjk4NyJ9.Sh8Cl7XN_M3YR5HeWBl97hifQrKWh9KwcudQIssbYStI8SYSbj7by20C0eYHIDX_YVJ2QEgGhXsw9WD5df4a0Q; Max-Age=7775999; Path=/; Expires=Wed, 24 Feb 2027 22:57:13 GMT; HttpOnly; Secure; SameSite=Lax"
+        ],
+        [
+          "set-cookie",
+          "fc_device_id=ceb10d0d-23ef-442f-b831-40c95ba0b987; Max-Age=34560000; Path=/; Expires=Fri, 31 Dec 2027 22:57:13 GMT; HttpOnly; Secure; SameSite=Lax"
+        ],
+        [
+          "set-cookie",
+          "site_visited=1; Path=/; Max-Age=3600; HttpOnly"
+        ],
+        [
+          "set-cookie",
+          "fc_req_dedup=utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&sub1=201951; Path=/; Max-Age=86400; HttpOnly; Secure; SameSite=Lax"
+        ],
+        [
+          "set-cookie",
+          "locale=en; Path=/"
+        ],
+        [
+          "Set-Cookie",
+          "fc_pool=k8s; Path=/; Max-Age=604800; Secure; SameSite=Lax"
+        ],
+        [
+          "set-cookie",
+          "__cflb=02DiuDkJGQKBDqZ5x5gczLvTh2w8wja16p5ANe5qNbKdv; HttpOnly; SameSite=None; Secure; Path=/; Expires=Fri, 27 Nov 2026 22:57:13 GMT"
+        ],
+        [
+          "x-fc-release",
+          "1.1624.0"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "cross-origin-opener-policy",
+          "same-origin-allow-popups"
+        ],
+        [
+          "document-policy",
+          "js-profiling"
+        ],
+        [
+          "vary",
+          "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding"
+        ],
+        [
+          "link",
+          "<https://static3.freecash.com/_next/static/media/47fe1b7cd6e6ed85-s.p.1br7xxknry11w.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", <https://static3.freecash.com/_next/static/media/8e6fa89aa22d24ec-s.p.15l35t7cq5pbc.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", <https://static3.freecash.com/_next/static/media/a218039a3287bcfd-s.p.351yk-jvbv6cz.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", <https://static3.freecash.com/_next/static/media/e2334d715941921e-s.p.0425e59hize-3.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", <https://static3.freecash.com/_next/static/chunks/3e_xu1nidpwpb.css>; rel=preload; as=\"style\"; crossorigin=\"anonymous\", <https://static3.freecash.com/_next/static/chunks/2dtj0-8_euxy4.css>; rel=preload; as=\"style\"; crossorigin=\"anonymous\", <https://static3.freecash.com/_next/static/chunks/3jmrqi7tc80gj.css>; rel=preload; as=\"style\"; crossorigin=\"anonymous\", <https://static3.freecash.com/_next/static/chunks/1m67rueyc9mco.css>; rel=preload; as=\"style\"; crossorigin=\"anonymous\""
+        ],
+        [
+          "x-powered-by",
+          "Next.js"
+        ],
+        [
+          "cache-control",
+          "private, no-cache, no-store, max-age=0, must-revalidate"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=AmjmKJpd3UVX3ByF99KtdWufKKx1o5TrcsEgysu8U%2FdmK9qRFou%2B7tMxrW%2Floxa3c%2FQx8y%2FSREV3BSBlSRcqMWwAWRixKJHn8t3dwXX2fN9jB7KK3fI7DmO3c3%2B3oA%3D%3D\"}]}"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "195"
+        ],
+        [
+          "cf-cache-status",
+          "DYNAMIC"
+        ],
+        [
+          "content-encoding",
+          "gzip"
+        ],
+        [
+          "CF-RAY",
+          "a60c7dab9d99f667-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 369844,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_desktop_chrome_hop4.html"
+    }
+  ],
+  "visit_low_bh_ios_tt": [
+    {
+      "hop": 0,
+      "url": "https://aww-funnel.3wingsandchips.workers.dev/visit?slot=0&sub2=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&ttclid=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA&px=p2&bh_dwell=100&bh_scroll=0&bh_taps=0&bh_force=1&bh_ptype=mouse",
+      "status": 302,
+      "elapsed_sec": 0.144,
+      "location": "https://linkthem.net/?offer_id=5084&aff_id=201951&s3=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:14 GMT"
+        ],
+        [
+          "Content-Length",
+          "0"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Location",
+          "https://linkthem.net/?offer_id=5084&aff_id=201951&s3=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=GsgBT7sCHdJtanwxZjHgpS%2BOSkaGrKXhsjGePq2ysD9lG5Lm%2BQXVF2naHXZIeq%2F%2BptbA%2Bl2PxPCs1EGVlcKHJNnJeMx7xJs%2FXM4CPy99g2BMoi5KwpRFIKeVGJCkhrRCJnrdApMDbSNrB4qM%2BapXQqtozwN5U1P9\"}]}"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "CF-RAY",
+          "a60c7dadfbc8dd7d-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 0,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_low_bh_ios_tt_hop0.txt"
+    },
+    {
+      "hop": 1,
+      "url": "https://linkthem.net/?offer_id=5084&aff_id=201951&s3=E_C_P_CuIBlOBBDz0HtYQ4aGZ5hd-y_S6bljv3dXesneVOHAHtpwNvokPuiDcN6XeeFMlSBERpDO_WMAeaOuaBSgdMfs0kLzrwtRmi95uL6rK2Z1x6GaxveZQpoo3bk5qjXGNBW7yiIFv-r7clv8IzQedaFC3RoCZ8H7TSGkPo-m-IT29nOvRKCS-r-PM4fJxVs4twTP-sLhyWklZg73tWjVK2445m4UohBHvlv4GEOqHeSo3srXfbYIt4_vmbzPrpM3foLu-rGMrBGTcBMLUGGyEptgQbSKiwIsg7XnRIWBuOth0xKWtQmRIEdjIuMA",
+      "status": 302,
+      "elapsed_sec": 0.084,
+      "location": "https://go.linkthem.net/aff_c?offer_id=5084&aff_id=201951&aff_click_id=gt_04_01a21a13c9757f52ce267643",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:14 GMT"
+        ],
+        [
+          "Content-Length",
+          "0"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Location",
+          "https://go.linkthem.net/aff_c?offer_id=5084&aff_id=201951&aff_click_id=gt_04_01a21a13c9757f52ce267643"
+        ],
+        [
+          "Access-Control-Allow-Origin",
+          "*"
+        ],
+        [
+          "Cache-Control",
+          "no-cache, no-store, must-revalidate"
+        ],
+        [
+          "Expires",
+          "Sat, 26 Jul 1997 05:00:00 GMT"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "Pragma",
+          "no-cache"
+        ],
+        [
+          "Accept-CH",
+          "Sec-CH-UA-Platform-Version, Sec-CH-UA-Model"
+        ],
+        [
+          "X-Content-Type-Options",
+          "nosniff"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=HhLOvPrXyVXpjGxl1zmWfHRxcu1NC2sH%2FV23uY35EH5qc1vIvyPUCGheTvah4DitS221fk3WXF5QcBAjko10IW%2BU5oeYP%2BXZ5bMsZLHAm51U0XqNe9IHjB09AXQStRA%3D\"}]}"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "CF-RAY",
+          "a60c7daf0dc1c605-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 0,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_low_bh_ios_tt_hop1.txt"
+    },
+    {
+      "hop": 2,
+      "url": "https://go.linkthem.net/aff_c?offer_id=5084&aff_id=201951&aff_click_id=gt_04_01a21a13c9757f52ce267643",
+      "status": 302,
+      "elapsed_sec": 0.094,
+      "location": "https://freecash.com?utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&click_id=1024d43bd9c30795fb4d90a4c43464&sub1=201951&sub2=&sub4=",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:14 GMT"
+        ],
+        [
+          "Content-Type",
+          "text/html; charset=iso-8859-1"
+        ],
+        [
+          "Transfer-Encoding",
+          "chunked"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "Cache-Control",
+          "no-cache, no-store, must-revalidate"
+        ],
+        [
+          "Expires",
+          "Sat, 26 Jul 1997 05:00:00 GMT"
+        ],
+        [
+          "Location",
+          "https://freecash.com?utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&click_id=1024d43bd9c30795fb4d90a4c43464&sub1=201951&sub2=&sub4="
+        ],
+        [
+          "P3p",
+          "CP=\"NOI CUR OUR NOR INT\""
+        ],
+        [
+          "Pragma",
+          "no-cache"
+        ],
+        [
+          "Set-Cookie",
+          "enc_aff_session_5084=ENC033154ec1a0b8e8b04bf02c18459de7816b87d53ea476b351d9e4a7ba20f7afca52dac58695dbd932d77741786bfec4c04452efd93b283b1626697d43f73fbfaf766158ff75643a62923b21cbbe7e28aa0274ce01bb85ffc491c5c6504a16b840ab143fdaa44e3d688823a661100dea087e4a8f096f206bee9562bed2c93399a9100301bf71435c8a13a9729a893da1a57c15cefffa74357974559d302d3f85ea2ab3fe5983bae16a79e3795653e12b8aeab3c42dd281e6bdeedb6a274c92ed34d0c2783e3; expires=Sat, 26 Dec 2026 22:57:14 GMT; path=/; SameSite=None; Secure"
+        ],
+        [
+          "Set-Cookie",
+          "ho_mob=eyJtb2JpbGVfZGV2aWNlX29zIjoiaU9TIiwibW9iaWxlX29zX3ZlcnNpb24iOiIxOC4xIiwibW9iaWxlX2RldmljZV9tb2RlbCI6ImlQaG9uZSIsIm1vYmlsZV9kZXZpY2VfYnJhbmQiOiJBcHBsZSIsIm1vYmlsZV9icm93c2VyIjoiU2FmYXJpIiwibW9iaWxlX2Jyb3dzZXJfdmVyc2lvbiI6IjE4LjAiLCJtb2JpbGVfY2FycmllciI6Ij8iLCJ1c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIElQaG9uZSBPUyAxOF8xIExpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgTGlrZSBHZWNrbykgTW9iaWxlLzIyQjgzIEJ5dGVkYW5jZVdlYnZpZXcvZDhhMjFjNiBNdXNpY2FsX2x5XzM3LjIuMCBKc1Nkay8yLjAgTmV0VHlwZS9XSUZJIENoYW5uZWwvQXBwIFN0b3JlIEJ5dGVMb2NhbGUvZW4tR0IgUmVnaW9uL0dCIFJldmVhbFR5cGUvRGlhbG9nIElzRGFya01vZGUvMCBXS1dlYlZpZXcvMSIsImFjY2VwdF9sYW5ndWFnZSI6ImVuLUdCLGVuO3E9MC45IiwiY29ubmVjdGlvbl9zcGVlZCI6ImJyb2FkYmFuZCJ9; expires=Sun, 21 Oct 2029 09:37:14 GMT; path=/; SameSite=None; Secure"
+        ],
+        [
+          "Tracking_id",
+          "1024d43bd9c30795fb4d90a4c43464"
+        ],
+        [
+          "X-Robots-Tag",
+          "noindex, nofollow"
+        ],
+        [
+          "Access-Control-Allow-Origin",
+          "*"
+        ],
+        [
+          "Access-Control-Allow-Headers",
+          "Tune-SDK-Version"
+        ],
+        [
+          "Accept-Ch",
+          "Sec-Ch-Dpr, Dpr, Sec-Ch-Ua-Model"
+        ],
+        [
+          "X-Request-Id",
+          "ca49aae02e4992c1a7999440a14b49c7"
+        ],
+        [
+          "cf-cache-status",
+          "DYNAMIC"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=eenX%2BBlfsw%2FF6BweNqryn%2FMiqi9xAWoEZVD5YCoCckzH%2Bx1LK%2FYTmHvgBUxbqS%2FwQN7ejTD1kAV7r8OGngSG7TP42xuAww%2FL7hp%2BE70WAcMAa6PXH1ZpiO4kTM6aQzE3bZU%3D\"}]}"
+        ],
+        [
+          "CF-RAY",
+          "a60c7daf6ebbf656-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 384,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_low_bh_ios_tt_hop2.html"
+    },
+    {
+      "hop": 3,
+      "url": "https://freecash.com?utm_source=glitchy&utm_medium=cpa&utm_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&click_id=1024d43bd9c30795fb4d90a4c43464&sub1=201951&sub2=&sub4=",
+      "status": 302,
+      "elapsed_sec": 0.177,
+      "location": "https://freecash.go.link/?adj_t=1tx4w2qo_1uyf6g9q&adj_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&adj_adgroup=fc-app&adj_label=source%3Aglitchy%7Cclick_id%3A1024d43bd9c30795fb4d90a4c43464%7Csub1%3A201951%7Csub2%3A%7Csub4%3Atiktok",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:14 GMT"
+        ],
+        [
+          "Content-Type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "Transfer-Encoding",
+          "chunked"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "Set-Cookie",
+          "fc_pool=k8s; Path=/; Max-Age=604800; Secure; SameSite=Lax"
+        ],
+        [
+          "set-cookie",
+          "__cflb=02DiuDkJGQKBDqZ5x5gczLvTh2w8wja16poytqeUzrz8L; HttpOnly; SameSite=None; Secure; Path=/; Expires=Fri, 27 Nov 2026 22:57:14 GMT"
+        ],
+        [
+          "x-fc-release",
+          "1.1624.0"
+        ],
+        [
+          "x-powered-by",
+          "Express"
+        ],
+        [
+          "vary",
+          "Origin, Accept"
+        ],
+        [
+          "access-control-allow-credentials",
+          "true"
+        ],
+        [
+          "location",
+          "https://freecash.go.link/?adj_t=1tx4w2qo_1uyf6g9q&adj_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&adj_adgroup=fc-app&adj_label=source%3Aglitchy%7Cclick_id%3A1024d43bd9c30795fb4d90a4c43464%7Csub1%3A201951%7Csub2%3A%7Csub4%3Atiktok"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "25"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "cf-cache-status",
+          "DYNAMIC"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ZOLupRaMBnQcZwGCZTgSBmlbsUe9B3xuNEVeD6d6v4NSH8gEv0%2FOp%2BLosrLE1uAX564RSi4r4zzRkSdZMrwdPU9bahTtS%2FnoyMAXNobi%2BRSqaY%2BPU56PxTH6W3Aj9g%3D%3D\"}]}"
+        ],
+        [
+          "CF-RAY",
+          "a60c7daffdadb884-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 280,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_low_bh_ios_tt_hop3.html"
+    },
+    {
+      "hop": 4,
+      "url": "https://freecash.go.link/?adj_t=1tx4w2qo_1uyf6g9q&adj_campaign=FC_GLITCHY_RON_WW_TIER15_APP_REV1_21_08_2026&adj_adgroup=fc-app&adj_label=source%3Aglitchy%7Cclick_id%3A1024d43bd9c30795fb4d90a4c43464%7Csub1%3A201951%7Csub2%3A%7Csub4%3Atiktok",
+      "status": 200,
+      "elapsed_sec": 0.163,
+      "location": "",
+      "headers": [
+        [
+          "set-cookie",
+          "3385c1d11b45da748acbf6cc859f527b=cT2n0T9KR1QQz; Path=/; Domain=adjust.com; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "3385c1d11b45da748acbf6cc859f527b=cT2n0T9KR1QQz; Path=/; Domain=adjust.io; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "3385c1d11b45da748acbf6cc859f527b=cT2n0T9KR1QQz; Path=/; Domain=adj.st; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "3385c1d11b45da748acbf6cc859f527b=cT2n0T9KR1QQz; Path=/; Domain=go.link; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "3385c1d11b45da748acbf6cc859f527b=cT2n0T9KR1QQz; Path=/; Domain=adjust.net.in; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "3385c1d11b45da748acbf6cc859f527b=cT2n0T9KR1QQz; Path=/; Domain=adjust.world; Max-Age=2"
+        ],
+        [
+          "set-cookie",
+          "3385c1d11b45da748acbf6cc859f527b=cT2n0T9KR1QQz; Path=/; Domain=adjust.cn; Max-Age=2"
+        ],
+        [
+          "date",
+          "Thu, 26 Nov 2026 22:57:14 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ],
+        [
+          "strict-transport-security",
+          "max-age=31536000; includeSubDomains; preload"
+        ],
+        [
+          "x-frame-options",
+          "SAMEORIGIN"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "x-robots-tag",
+          "noindex"
+        ],
+        [
+          "connection",
+          "close"
+        ]
+      ],
+      "body_len": 11400,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/visit_low_bh_ios_tt_hop4.html"
+    }
+  ],
+  "aww_manifest_check": [
+    {
+      "hop": 0,
+      "url": "https://aww-funnel.3wingsandchips.workers.dev/manifest.json",
+      "status": 404,
+      "elapsed_sec": 0.086,
+      "location": "",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:14 GMT"
+        ],
+        [
+          "Content-Length",
+          "0"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=n2hxz8iz4IN5NcKXJMZRyXVZv4saSsjrYODjT0CMOwXVyJg1zdr4%2FBphjWbcy%2F920YxIHLhV4uWd%2F%2FM7QfuXOKPZdWp9ov7s9wAo9DwcOzZWelyme5bw7AJEyZggGzuyrcC8QfVZGGJSkKUKgavEHhd7Esh8%2BuNU\"}]}"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "CF-RAY",
+          "a60c7db23e06cdc8-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 0,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/aww_manifest_check_hop0.txt"
+    }
+  ],
+  "aww_sw_check": [
+    {
+      "hop": 0,
+      "url": "https://aww-funnel.3wingsandchips.workers.dev/sw.js",
+      "status": 404,
+      "elapsed_sec": 0.083,
+      "location": "",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:14 GMT"
+        ],
+        [
+          "Content-Length",
+          "0"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ANHQKJbICfs4mws8T0DU22umW6W2vzHPG2m5aD3MxJAIDq%2BCS1SSdvODqSLkX13ReCFct4iOf7Gnxf29lmIBnAPyke8ZSW4QCce24XhjoZtQP8k4uDbjB3n5QAZE9R1t3QttI8FJXP%2FaqZ71S0eK6OFAFFCSkLxZ\"}]}"
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "CF-RAY",
+          "a60c7db2bd22941b-LHR"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ]
+      ],
+      "body_len": 0,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/aww_sw_check_hop0.txt"
+    }
+  ],
+  "shopify_manifest_check": [
+    {
+      "hop": 0,
+      "url": "https://8sebgr-sx.myshopify.com/manifest.json",
+      "status": 404,
+      "elapsed_sec": 0.121,
+      "location": "",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:14 GMT"
+        ],
+        [
+          "Content-Type",
+          "application/json; charset=utf-8"
+        ],
+        [
+          "Content-Length",
+          "0"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "cf-cache-status",
+          "DYNAMIC"
+        ],
+        [
+          "Set-Cookie",
+          "cart_currency=GBP; path=/; expires=Thu, 10 Dec 2026 22:57:14 GMT; SameSite=Lax"
+        ],
+        [
+          "Set-Cookie",
+          "_shopify_essential=:AaIaE8wwAAEAn32G1btMmKe4iZyIFWNba4kXj-CLWzNbqgbCLAjJRMm77iRnvzchaZINv5xWO4xZBMeVA4lNX3j-LlM:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax"
+        ],
+        [
+          "etag",
+          "\"page_cache:103264747894:NotFoundController:225850157fa2ba0a1bdecce43c4d89df\""
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}"
+        ],
+        [
+          "shopify-complexity-score",
+          "40"
+        ],
+        [
+          "shopify-complexity-score-v2",
+          "40"
+        ],
+        [
+          "x-frame-options",
+          "DENY"
+        ],
+        [
+          "content-security-policy",
+          "block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;"
+        ],
+        [
+          "strict-transport-security",
+          "max-age=7889238"
+        ],
+        [
+          "X-Permitted-Cross-Domain-Policies",
+          "none"
+        ],
+        [
+          "vary",
+          "Accept"
+        ],
+        [
+          "cdn-cache-control",
+          "no-cache, no-store"
+        ],
+        [
+          "content-language",
+          "en-GB"
+        ],
+        [
+          "Cache-Control",
+          "private, no-store"
+        ],
+        [
+          "link",
+          "</.well-known/ucp>; rel=\"ucp\"; version=\"2026-08-25\""
+        ],
+        [
+          "powered-by",
+          "Shopify"
+        ],
+        [
+          "server-timing",
+          "processing;dur=23, db;dur=7, db_async;dur=4.012, asn;desc=\"174\", edge;desc=\"LHR\", country;desc=\"GB\", servedBy;desc=\"v49b\", requestID;desc=\"3d45bce9-04ae-408e-9a7b-d7513334ab31-1795733834\", _y;desc=\"00000000-0000-0000-5000-000000000000\", _s;desc=\"00000000-0000-0000-5000-000000000000\", _cmp;desc=\"3.ampS_GBENG_t_f_5bVXW8mwRYOFmKRee5HlEg\", _ye;desc=\"1827291434\", _se;desc=\"1795735634\""
+        ],
+        [
+          "x-dc",
+          "gcp-europe-west1,gcp-europe-west1,gcp-europe-west1"
+        ],
+        [
+          "X-XSS-Protection",
+          "1; mode=block"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Mnbw%2Fm2s9jErBN%2FrGmQuu0fNtx9mBRnXYFYcdnUnwvjEc2rDwQZXF2gyQB5IioGD85hMVQwjHNOs1%2B3EaylT2R03sEDj0g%2FNksZ%2BA49G97wAin0c6rgpCVLunjrV9COK0ZHodDdBUhqR\"}]}"
+        ],
+        [
+          "X-Content-Type-Options",
+          "nosniff"
+        ],
+        [
+          "X-Download-Options",
+          "noopen"
+        ],
+        [
+          "x-request-id",
+          "3d45bce9-04ae-408e-9a7b-d7513334ab31-1795733834"
+        ],
+        [
+          "CF-RAY",
+          "a60c7db34bc5ef56-LHR"
+        ]
+      ],
+      "body_len": 0,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/shopify_manifest_check_hop0.json"
+    }
+  ],
+  "shopify_sw_check": [
+    {
+      "hop": 0,
+      "url": "https://8sebgr-sx.myshopify.com/sw.js",
+      "status": 404,
+      "elapsed_sec": 0.132,
+      "location": "",
+      "headers": [
+        [
+          "Date",
+          "Thu, 26 Nov 2026 22:57:14 GMT"
+        ],
+        [
+          "Content-Type",
+          "text/javascript; charset=utf-8"
+        ],
+        [
+          "Content-Length",
+          "0"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "cf-cache-status",
+          "DYNAMIC"
+        ],
+        [
+          "Set-Cookie",
+          "cart_currency=GBP; path=/; expires=Thu, 10 Dec 2026 22:57:14 GMT; SameSite=Lax"
+        ],
+        [
+          "Set-Cookie",
+          "_shopify_essential=:AaIaE8ywAAEAdxCwYPrcCXSkXc4ID9UOVC16vEWAZJA5zJD67GVgFk-zCMgpNO-Yi5zr9qHUGpW_DO17eua-_hGl1-8:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax"
+        ],
+        [
+          "etag",
+          "\"page_cache:103264747894:NotFoundController:3ec053f868a00bea56baaa4d7252a59f\""
+        ],
+        [
+          "Nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}"
+        ],
+        [
+          "shopify-complexity-score",
+          "42"
+        ],
+        [
+          "shopify-complexity-score-v2",
+          "42"
+        ],
+        [
+          "x-frame-options",
+          "DENY"
+        ],
+        [
+          "content-security-policy",
+          "block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;"
+        ],
+        [
+          "strict-transport-security",
+          "max-age=7889238"
+        ],
+        [
+          "X-Permitted-Cross-Domain-Policies",
+          "none"
+        ],
+        [
+          "vary",
+          "Accept"
+        ],
+        [
+          "cdn-cache-control",
+          "no-cache, no-store"
+        ],
+        [
+          "content-language",
+          "en-GB"
+        ],
+        [
+          "Cache-Control",
+          "private, no-store"
+        ],
+        [
+          "link",
+          "</.well-known/ucp>; rel=\"ucp\"; version=\"2026-08-25\""
+        ],
+        [
+          "powered-by",
+          "Shopify"
+        ],
+        [
+          "server-timing",
+          "processing;dur=24, db;dur=7, db_async;dur=2.308, asn;desc=\"174\", edge;desc=\"LHR\", country;desc=\"GB\", theme;desc=\"203402871158\", pageType;desc=\"index\", servedBy;desc=\"dfnl\", requestID;desc=\"2bf0f6ba-ff58-434b-bdba-7794ef0e7dc0-1795733834\", _y;desc=\"00000000-0000-0000-5000-000000000000\", _s;desc=\"00000000-0000-0000-5000-000000000000\", _cmp;desc=\"3.ampS_GBENG_t_f_Bx2n4cwiRJWP38ugzf6UXQ\", _ye;desc=\"1827291434\", _se;desc=\"1795735634\""
+        ],
+        [
+          "x-dc",
+          "gcp-europe-west1,gcp-europe-west1,gcp-europe-west1"
+        ],
+        [
+          "X-XSS-Protection",
+          "1; mode=block"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "Server",
+          "cloudflare"
+        ],
+        [
+          "Report-To",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2FNDpEZ1CQCI5wWju0XrVgDMAxhTCOO837Wv30nwzB9Kwvh6qqYG%2Bh3oe7KLFc5Er9z9%2FxOoKqbxWy8zeHW2K5UmBLTLLd2URxmiwmZbvY97d9y651fXLvEWWwVT0q5NAwtgM6evBM%2BCK\"}]}"
+        ],
+        [
+          "X-Content-Type-Options",
+          "nosniff"
+        ],
+        [
+          "X-Download-Options",
+          "noopen"
+        ],
+        [
+          "x-request-id",
+          "2bf0f6ba-ff58-434b-bdba-7794ef0e7dc0-1795733834"
+        ],
+        [
+          "CF-RAY",
+          "a60c7db40f84bea1-LHR"
+        ]
+      ],
+      "body_len": 0,
+      "body_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage4_visit/shopify_sw_check_hop0.txt"
+    }
+  ]
+}

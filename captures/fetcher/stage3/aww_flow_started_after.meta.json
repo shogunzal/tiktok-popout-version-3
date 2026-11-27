@@ -1,0 +1,51 @@
+{
+  "name": "aww_flow_started_after",
+  "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage3/aww_flow_started_after.json",
+  "url": "https://aww-funnel.3wingsandchips.workers.dev/flow-load-started?ref=ec6b4668-4fb7-432b-b12a-5f8773cd5998&s1=1882654792241361&cid=E_C_P_TEST_PROBE&px=p2",
+  "method": "GET",
+  "status": 200,
+  "elapsed_sec": 0.096,
+  "headers": [
+    [
+      "Date",
+      "Thu, 26 Nov 2026 22:56:19 GMT"
+    ],
+    [
+      "Content-Type",
+      "application/json"
+    ],
+    [
+      "Content-Length",
+      "16"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "Cache-Control",
+      "no-store"
+    ],
+    [
+      "Report-To",
+      "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=wAxIf5fu2YP9wRioopIMnj%2BzVVIm7yPaEDVfr8RAgMnC4RjIUS3w5UBz9alhlqQbPuzFWh2LFmRtV%2FS1Fmanh4%2Fruyt5loeTpleUkRDzB%2Fn5uHKqYYpnINdn4%2FTcHE5BYnQXp0S%2B4kF%2Fw4MRs6HaJLg5hD6rAhVX\"}]}"
+    ],
+    [
+      "Nel",
+      "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+    ],
+    [
+      "Server",
+      "cloudflare"
+    ],
+    [
+      "CF-RAY",
+      "a60c7c596a459527-LHR"
+    ],
+    [
+      "alt-svc",
+      "h3=\":443\"; ma=86400"
+    ]
+  ],
+  "body_len": 16
+}

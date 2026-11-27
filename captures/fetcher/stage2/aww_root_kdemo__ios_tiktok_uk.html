@@ -1,0 +1,40 @@
+<!doctype html><html><head><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><style>html,body{margin:0;min-height:100%;background:#000;color:#fff}.scam{position:fixed;z-index:2147483647;pointer-events:none;background:#d30013;color:white;border:2px solid white;border-radius:4px;padding:3px 9px;font:900 15px Arial;letter-spacing:.12em}.top{top:4px;right:5px}.bottom{bottom:4px;left:5px}</style></head><body><script>
+(async () => {
+  const incoming = new URL(location.href);
+  if (!/TikTok|musical_ly|musically|BytedanceWebview|trill|aweme/i.test(navigator.userAgent) || !incoming.searchParams.get('k')) return;
+  const visit = crypto.randomUUID();
+  let running = false, attempts = 0;
+  async function open() {
+    if (running) return;
+    running = true;
+    attempts++;
+    try {
+      const response = await fetch('/shopify-entry', {method:'POST',credentials:'omit',cache:'no-store',headers:{'content-type':'application/json'},body:JSON.stringify({entryURL:incoming.href,requestId:visit}),signal:AbortSignal.timeout(12000)});
+      if (!response.ok) throw Error('Entry unavailable');
+      const data = await response.json();
+      if (!data.authorized) { location.replace(data.fallback); return; }
+      if (typeof data.entryHTML !== 'string' || !data.entryHTML.includes('snssdk1233://webview')) throw Error('Handoff unavailable');
+      if (data.gravyRecovery || data.preserveNativeContext) {
+        if (window.__gravyEntryMounted) return;
+        const parsed = new DOMParser().parseFromString(data.entryHTML,'text/html');
+        if (!parsed.body || !parsed.body.querySelector('script')) throw Error('Missing entry scripts');
+        if ([...parsed.scripts].some(s => s.src)) throw Error('Unexpected external entry script');
+        window.__gravyEntryMounted = true;
+        window.__gravyEntryLoader = 'in_place_v1';
+        window.__gravyBridgeBefore = {JS2Native:!!window.JS2NativeBridge,toutiao:!!window.ToutiaoJSBridge,jsCall:!!(window.JSBridge && typeof window.JSBridge.call === 'function'),bridgeFrames:!!document.querySelector('iframe[id*="JSBridge"]')};
+        for (const style of parsed.head.querySelectorAll('style')) document.head.appendChild(style.cloneNode(true));
+        for (const node of [...parsed.body.childNodes]) {
+          if (node.nodeType === 1 && node.tagName === 'SCRIPT') {
+            const script = document.createElement('script');
+            script.textContent = node.textContent;
+            script.dataset.gravyEntry = 'in-place';
+            document.body.appendChild(script);
+          } else document.body.appendChild(node.cloneNode(true));
+        }
+      } else { document.open(); document.write(data.entryHTML); document.close(); }
+    } catch { if (attempts < 3) setTimeout(open, attempts * 500); }
+    finally { running = false; }
+  }
+  await open();
+})();
+</script></body></html>

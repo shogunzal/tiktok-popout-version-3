@@ -1,0 +1,51 @@
+{
+  "name": "gravy_flow_started_before",
+  "file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/stage3/gravy_flow_started_before.json",
+  "url": "https://gravy-clone.3wingsandchips.workers.dev/flow-load-started?ref=84104e72-0eb7-4967-a970-fcd661353f90&m=hold",
+  "method": "GET",
+  "status": 200,
+  "elapsed_sec": 0.309,
+  "headers": [
+    [
+      "Date",
+      "Thu, 26 Nov 2026 22:56:36 GMT"
+    ],
+    [
+      "Content-Type",
+      "application/json"
+    ],
+    [
+      "Content-Length",
+      "17"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "Cache-Control",
+      "no-store"
+    ],
+    [
+      "Report-To",
+      "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=IV59R6X06q6FcgftrRX8ukg9CCxlmygejiFJAlfGf9mLaQdzsBmtLNeayEkrlDwQ4GaYwcxFO4faeQTu%2FkGkTsfvNP1igv57MrHHx3%2Bdh3wboEeQ872KQrSLKrCvNAH%2FtNpQrVpkFplkBwKhMDHBTLUa%2Ff3B%2B7e32g%3D%3D\"}]}"
+    ],
+    [
+      "Nel",
+      "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+    ],
+    [
+      "Server",
+      "cloudflare"
+    ],
+    [
+      "CF-RAY",
+      "a60c7cc6388986b2-LHR"
+    ],
+    [
+      "alt-svc",
+      "h3=\":443\"; ma=86400"
+    ]
+  ],
+  "body_len": 17
+}

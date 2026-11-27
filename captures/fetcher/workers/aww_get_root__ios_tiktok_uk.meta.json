@@ -1,0 +1,48 @@
+{
+  "name": "aww_get_root__ios_tiktok_uk",
+  "request_profile": "ios_tiktok_uk",
+  "request_payload": null,
+  "response_file": "/Users/zal/.gemini/antigravity/brain/69654e87-2d60-4aea-875d-73ac736c0c8d/scratch/fetcher/workers/aww_get_root__ios_tiktok_uk.txt",
+  "url": "https://aww-funnel.3wingsandchips.workers.dev/",
+  "method": "GET",
+  "status": 302,
+  "headers": [
+    [
+      "Date",
+      "Thu, 26 Nov 2026 22:54:22 GMT"
+    ],
+    [
+      "Content-Length",
+      "0"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "Location",
+      "https://aww-funnel.3wingsandchips.workers.dev/?k=demo"
+    ],
+    [
+      "Report-To",
+      "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2FLKzfhgjG%2FRx81XZ3lr68su5HiT%2B8g9HTRaV2I%2B%2BXc2hCVggvHYQTCyI9pPjVEVxD78cXf5RUUkmQ1HVgUitEmkeK4LnUU2eeEHIY5qj4NDzU7bqLFWXIVp%2FytlUp6c1wxMiFcKakwk5b6Zr4fBKUyJynPMYLgFg\"}]}"
+    ],
+    [
+      "Nel",
+      "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+    ],
+    [
+      "Server",
+      "cloudflare"
+    ],
+    [
+      "CF-RAY",
+      "a60c797e19a6df14-LHR"
+    ],
+    [
+      "alt-svc",
+      "h3=\":443\"; ma=86400"
+    ]
+  ],
+  "body_len": 0
+}
